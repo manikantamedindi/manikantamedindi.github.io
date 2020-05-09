@@ -233,7 +233,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="filters portfolio-filter d-none">
+			<div class="filters portfolio-filter">
 				<ul>
 					<li class="active" data-filter="*">all</li>
 					<li data-filter=".popular">popular</li>
@@ -245,8 +245,7 @@
 
 			<div class="filters-content" id="app">
 				<div class="row portfolio-grid justify-content-center">
-					<div class="col-lg-4 col-md-6" v-for="(item, index) in projects" :key="index" :class="item.category"
-						data-aos="fade-up" data-aos-delay="200">
+					<div class="col-lg-4 col-md-6" v-for="(item, index) in projects" :key="index" :class="item.category">
 						<div class="portfolio_box">
 							<div class="single_portfolio">
 								<img class="img-fluid w-100" :src="'img/portfolio/' + item.image" alt="">
