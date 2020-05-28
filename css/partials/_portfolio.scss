@@ -1,0 +1,127 @@
+#portfolio {
+  padding: 5em 0;
+
+  .section-heading {
+    margin-bottom: 45px;
+
+    h3 {
+      color: $secondary;
+      font-size: 2rem;
+      font-weight: 600;
+      line-height: 45px;
+    }
+  }
+
+  .filters {
+    margin-bottom: 75px;
+
+    ul {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      .active {
+        color: $secondary;
+        font-weight: 600;
+        transition: all 0.1s ease-in-out;
+      }
+
+      li {
+        &:not(:last-child) {
+          margin-right: 25px;
+        }
+
+        font-size: 1.1rem;
+        color: #fff;
+        text-transform: uppercase;
+        letter-spacing: 0;
+
+        transition: all 0.1s ease-in-out;
+
+        &:hover {
+          cursor: pointer;
+        }
+      }
+    }
+  }
+
+  .filters-content {
+    .single_portfolio {
+      position: relative;
+      margin-bottom: 4rem;
+
+      &:after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100px;
+        width: 100%;
+        background: linear-gradient(to top, $primary, rgba(255, 255, 255, 0) 100%);
+        z-index: 1;
+      }
+
+      img {
+        border-radius: 5px 5px 0 0;
+      }
+
+      .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        text-align: center;
+        transition: all 0.2s ease-in-out;
+        display: block;
+        z-index: 5;
+
+        .overlay-link {
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          display: block;
+        }
+
+        .content {
+          position: absolute;
+          top: 50%;
+          left: 0;
+          right: 0;
+          transform: translateY(-50%);
+
+          a {
+            color: #fff;
+            font-weight: 600;
+            font-size: 1.2rem;
+            opacity: 0;
+            transition: all 0.2s ease-in-out;
+            letter-spacing: 0.5px;
+          }
+
+          .webiste-link {
+            margin-top: 10px !important;
+            display: block;
+            color: $secondary;
+            border-bottom: 2px solid $secondary;
+            display: inline-block;
+          }
+        }
+
+        &:hover {
+          background: rgba(16, 24, 32, 0.7);
+          cursor: pointer;
+
+          .content {
+            a {
+              opacity: 1;
+            }
+          }
+        }
+      }
+    }
+  }
+}

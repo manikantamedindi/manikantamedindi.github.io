@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700|Roboto+Condensed:400,400i,700');
+@import 'partials/_colors';
+/*font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+*/
+
+/* External fonts load  */
+@font-face {
+  font-family: "";
+  src: url("");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  background: $primary;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+p {
+  font-size: 1em;
+  line-height: 28px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+a {
+
+  &:visited,
+  &:focus,
+  &:active,
+  &:hover {
+    text-decoration: none;
+    outline: none;
+  }
+}
+
+
+ul {
+  margin: 0;
+  padding: 0;
+
+  li {
+    list-style: none;
+  }
+}
+
+.affix {
+  // position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  transition: 0.5s ease-in-out;
+  animation: affix_animation .6s ease-in-out;
+  -webkit-animation: affix_animation .6s ease-in-out;
+  background: $primary;
+  box-shadow: 0px 3px 36px 0px rgba(0, 0, 0, 0.2);
+  z-index: 99999999999;
+}
+
+@-webkit-keyframes affix_animation {
+  0% {
+    margin-top: -120px;
+    opacity: 0
+  }
+
+  50% {
+    margin-top: -64px;
+    opacity: 0
+  }
+
+  100% {
+    margin-top: 0;
+    opacity: 1
+  }
+}
+
+@keyframes affix_animation {
+  0% {
+    margin-top: -120px;
+    opacity: 0
+  }
+
+  50% {
+    margin-top: -64px;
+    opacity: 0
+  }
+
+  100% {
+    margin-top: 0;
+    opacity: 1
+  }
+}

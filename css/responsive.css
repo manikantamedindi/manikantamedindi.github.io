@@ -1,0 +1,46 @@
+/*Small devices (landscape phones, 576px and up) --- Most Used*/
+/*Small devices (landscape phones, 576px and up) --- col*/
+/*Small devices (landscape phones, 576px and up) --- col-sm*/
+/*Medium devices (tablets, 768px and up) --- col-md*/
+/*Large devices (desktops, 992px and up) --- col-lg*/
+/*Extra large devices (large desktops, 1200px and up) --- col-xl*/
+/*This code for Big Screens --- col-xxl*/
+@media (min-width: 1600px) {
+  .col-xxl-12 {
+    max-width: 100% !important;
+  }
+  .col-xxl-11 {
+    max-width: 91.66666667% !important;
+  }
+  .col-xxl-10 {
+    max-width: 83.33333333% !important;
+  }
+  .col-xxl-9 {
+    max-width: 75% !important;
+  }
+  .col-xxl-8 {
+    max-width: 66.66666667% !important;
+  }
+  .col-xxl-7 {
+    max-width: 58.33333333% !important;
+  }
+  .col-xxl-6 {
+    max-width: 50% !important;
+  }
+  .col-xxl-5 {
+    max-width: 41.66666667% !important;
+  }
+  .col-xxl-4 {
+    max-width: 33.33333333% !important;
+  }
+  .col-xxl-3 {
+    max-width: 25% !important;
+  }
+  .col-xxl-2 {
+    max-width: 16.66666667% !important;
+  }
+  .col-xxl-1 {
+    max-width: 8.33333333% !important;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
