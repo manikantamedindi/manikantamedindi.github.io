@@ -1,7 +1,139 @@
 [{
-  "name": "Images",
-  "list": [{
-    "name": "image Resize",
-    "url": "https://www.birme.net/"
-  }]
-}]
+    "name": "All in One",
+    "list": [{
+        "name": "allthefreestock",
+        "url": "https://allthefreestock.com/"
+      },
+      {
+        "name": "The stocks (Bulk)",
+        "url": "http://thestocks.im/"
+      }
+    ]
+  }, {
+    "name": "Image Tools",
+    "list": [{
+      "name": "image Resize",
+      "url": "https://www.birme.net/"
+    }]
+  },
+  {
+    "name": "Design Assets",
+    "list": [{
+        "name": "UI Design Daily (bulk)",
+        "url": "https://uidesigndaily.com/"
+      },
+      {
+        "name": "freebiesbug (bulk)",
+        "url": "https://freebiesbug.com/"
+      }
+    ]
+  },
+  {
+    "name": "Icon Assets",
+    "list": [{
+        "name": "CSS icons",
+        "url": "https://css.gg/"
+      },
+      {
+        "name": "Animated icons",
+        "url": "https://lordicon.com/"
+      },
+      {
+        "name": "Font faced icons",
+        "url": "http://fontello.com/"
+      },
+      {
+        "name": "Flat Icons - Bulk",
+        "url": "https://www.flaticon.com/"
+      },
+      {
+        "name": "Ion icons - font faced",
+        "url": "https://ionicons.com/"
+      },
+      {
+        "name": "Material icons - SVG",
+        "url": "https://material.io/resources/icons/"
+      },
+      {
+        "name": "Feather icons - SVG",
+        "url": "https://feathericons.com/"
+      },
+      {
+        "name": "Icons 8 - Bulk",
+        "url": "https://icons8.com/icons"
+      }
+    ]
+  },
+  {
+    "name": "Image Assets",
+    "list": [{
+        "name": "Freepik - Bulk",
+        "url": "https://www.freepik.com/"
+      },
+      {
+        "name": "Unsplash",
+        "url": "https://unsplash.com/"
+      },
+      {
+        "name": "Pexels - Images,Videos",
+        "url": "https://www.pexels.com/"
+      },
+      {
+        "name": "Clean Png",
+        "url": "https://www.cleanpng.com/"
+      },
+      {
+        "name": "Pixabay",
+        "url": "https://pixabay.com/"
+      },
+      {
+        "name": "The mockup - mockups",
+        "url": "https://themockup.club/"
+      },
+      {
+        "name": "Threed - 3D Mockups",
+        "url": "https://threed.io/"
+      },
+      {
+        "name": "Canva",
+        "url": "https://www.canva.com/photos/free/"
+      },
+      {
+        "name": "Stocksnap",
+        "url": "https://stocksnap.io/"
+      },
+      {
+        "name": "Burst - high Resolution",
+        "url": "https://burst.shopify.com/"
+      },
+      {
+        "name": "Free Images - Bulk",
+        "url": "https://www.freeimages.com/"
+      }
+    ]
+  },
+  {
+    "name": "Colors Assets",
+    "list": [{
+        "name": "Coolors - color pallet",
+        "url": "https://coolors.co/"
+      },
+      {
+        "name": "Flat UI colors - color pallet",
+        "url": "https://flatuicolors.com/"
+      },
+      {
+        "name": "color mind - color pallet",
+        "url": "http://colormind.io/"
+      }
+    ]
+  },
+  {
+    "name": "Fonts Assets",
+    "list": [{
+      "name": "font Fabric",
+      "url": "https://www.fontfabric.com/"
+    }]
+  }
+
+]

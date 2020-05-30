@@ -10,6 +10,10 @@
   color: #27debf;
 }
 
+#tools-page .each {
+  margin-bottom: 45px;
+}
+
 #tools-page .each .main-title {
   font-size: 1.5rem;
 }
