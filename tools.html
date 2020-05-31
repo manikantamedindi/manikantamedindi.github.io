@@ -22,16 +22,30 @@
     <div id="progstat"></div>
     <div id="progress"></div>
   </div>
+  <div class="page-heading">
+    <h3>Web Development Tools</h3>
+  </div>
+
   <section class="tools" id="app">
-    <div class="section-heading">
-      <h3>Web Development Tools</h3>
-    </div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <label>
-            Search name: <input type="text" v-model='searchString'>
-          </label> <br>
+          <div class="search-filters">
+            <ul>
+              <li>
+                <div class="overall-search-filter">
+                  <input class="submitEnter search-box" v-model='searchString' maxlength="128"
+                    placeholder="Search for web tools, element.." type="text" name="name" id="name" class="">
+                  <label for="search-box" class="search-box-label"><span class="search-icon">
+                      <img class="img-fluid" src="img/icons/search.svg" alt="">
+                    </span></label>
+                </div>
+
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-12">
           <div class="card-columns">
             <div class="card" v-for="(tool, index) in filteredList" :key="index">
               <div class="each">
@@ -63,6 +77,12 @@
   <script src="js/vendors/vue.js"></script>
   <script src="js/tools.js"></script>
   <script src="js/app.js"></script>
+  <script>
+    $(".search-icon").click(function () {
+      $(".search-box").toggleClass("expand");
+    });
+
+  </script>
 </body>
 
 </html>

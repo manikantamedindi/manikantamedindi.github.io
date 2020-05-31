@@ -1,7 +1,21 @@
 #tools-page {
   background: #101820FF;
+}
+
+#tools-page .tools {
   color: #fff;
   padding: 5em 4em;
+}
+
+#tools-page .page-heading {
+  text-align: center;
+  padding: 1em 0;
+  background: #19232d;
+}
+
+#tools-page .page-heading h3 {
+  color: #fff;
+  font-weight: 400;
 }
 
 #tools-page .section-heading {
@@ -10,50 +24,130 @@
   color: #27debf;
 }
 
+#tools-page .search-filters {
+  margin-bottom: 25px;
+}
+
+#tools-page .search-filters ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-box {
+  -webkit-transition: width 0.6s, background 0.6s;
+  transition: width 0.6s, background 0.6s;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-box + label .search-icon {
+  color: black;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-box:hover {
+  color: white;
+  background: #98a3ad;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-box:hover + label .search-icon {
+  color: white;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-box:focus {
+  border: none;
+  outline: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  padding-left: 15px;
+  cursor: text;
+  width: 300px;
+  border-radius: auto;
+  background: white;
+  color: black;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-box:focus + label .search-icon {
+  color: black;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-box:not(:focus) {
+  text-indent: -5000px;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-icon {
+  position: relative;
+  left: -35px;
+  color: white;
+  cursor: pointer;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .search-icon img {
+  z-index: -1;
+}
+
+#tools-page .search-filters ul li .overall-search-filter .expand {
+  border: none !important;
+  outline: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+  padding-left: 15px !important;
+  width: 300px !important;
+  background: white !important;
+  color: black !important;
+}
+
 #tools-page .card-columns {
-  -webkit-column-count: 2;
-          column-count: 2;
+  -webkit-column-count: 3;
+          column-count: 3;
 }
 
 #tools-page .card-columns .card {
-  background: transparent;
+  background: #19232d;
+  padding: 15px 10px;
+  border-radius: 5px;
 }
 
-#tools-page .each {
-  margin-bottom: 45px;
+#tools-page .card-columns .card .each .main-title {
+  font-size: 1.3rem;
+  color: #C0C9D1;
 }
 
-#tools-page .each .main-title {
-  font-size: 1.5rem;
-}
-
-#tools-page .each .main-title span {
+#tools-page .card-columns .card .each .main-title span {
   padding-right: 5px;
 }
 
-#tools-page .each .list-items {
+#tools-page .card-columns .card .each .list-items {
   margin-top: 10px;
 }
 
-#tools-page .each .list-items ul {
+#tools-page .card-columns .card .each .list-items ul {
   padding-left: 10px;
 }
 
-#tools-page .each .list-items ul li:not(:last-child) {
+#tools-page .card-columns .card .each .list-items ul li:not(:last-child) {
   margin-bottom: 10px;
 }
 
-#tools-page .each .list-items ul li p {
+#tools-page .card-columns .card .each .list-items ul li p {
   font-size: 1.1rem;
+  color: #C0C9D1;
 }
 
-#tools-page .each .list-items ul li p span {
+#tools-page .card-columns .card .each .list-items ul li p span {
   padding-right: 5px;
 }
 
-#tools-page .each .list-items ul li p a {
+#tools-page .card-columns .card .each .list-items ul li p a {
   color: #FEE715FF;
   padding-left: 10px;
+  display: block;
 }
 
 #portfolio {

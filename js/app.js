@@ -91,3 +91,4 @@ $(".scroll").on('click', function (event) {
   }
   document.addEventListener('DOMContentLoaded', loadbar, false);
 }());
+
