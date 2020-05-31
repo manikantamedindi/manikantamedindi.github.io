@@ -19,6 +19,10 @@
       {
         "name": "codyhouse Bulk components",
         "url": "https://codyhouse.co/ds/components"
+      },
+      {
+        "name": "Free Frontend Bulk components",
+        "url": "https://freefrontend.com/"
       }
     ]
   }, {
@@ -37,6 +41,10 @@
       {
         "name": "freebiesbug (bulk)",
         "url": "https://freebiesbug.com/"
+      },
+      {
+        "name": "collectui Bulk UI components",
+        "url": "https://collectui.com/"
       }
     ]
   },
@@ -157,6 +165,18 @@
       {
         "name": "Pink Colors",
         "url": "https://picular.co/pink"
+      },
+      {
+        "name": "brandcolors",
+        "url": "http://brandcolors.net/"
+      },
+      {
+        "name": "Website color finder",
+        "url": "http://stylifyme.com/"
+      },
+      {
+        "name": "colinkeany color gradient",
+        "url": "http://colinkeany.com/blend/"
       }
     ]
   },
@@ -192,6 +212,14 @@
       {
         "name": "Web Background Animation Effects - Bulk",
         "url": "https://bashooka.com/coding/web-background-animation-effects/"
+      },
+      {
+        "name": "blobmaker - Bulk",
+        "url": "https://www.blobmaker.app/"
+      },
+      {
+        "name": "svgbackgroundsfb",
+        "url": "https://www.svgbackgrounds.com/"
       }
     ]
   },
@@ -259,7 +287,7 @@
       },
       {
         "name": "Image Focus Point",
-        "url": "https://github.com/jonom/jquery-focuspoint"
+        "url": "http://jonom.github.io/jquery-focuspoint/demos/helper/index.html"
       },
       {
         "name": "SVG Magic",
@@ -272,6 +300,10 @@
       {
         "name": "Multi navigation menu",
         "url": "https://slinky.js.org/"
+      },
+      {
+        "name": "Fav icon Generator",
+        "url": "https://realfavicongenerator.net/"
       }
     ]
   },
@@ -312,6 +344,18 @@
       {
         "name": "Scrolling with CSS variables",
         "url": "https://basicscroll.electerious.com/"
+      },
+      {
+        "name": "CSS Animation",
+        "url": "http://cssanimation.io/"
+      },
+      {
+        "name": "scrolly js",
+        "url": "http://scrollyjs.com/"
+      },
+      {
+        "name": "shapeshifter - SVG animation",
+        "url": "https://shapeshifter.design/"
       }
     ]
   },
@@ -334,9 +378,18 @@
   {
     "name": "Study Material",
     "list": [{
-      "name": "cssreference - CSS Study material",
-      "url": "https://cssreference.io/"
-    }]
+        "name": "cssreference - CSS Study material",
+        "url": "https://cssreference.io/"
+      },
+      {
+        "name": "Web Code - Bulk",
+        "url": "https://webcode.tools/"
+      },
+      {
+        "name": "material - Bulk",
+        "url": "https://material.io/design"
+      }
+    ]
   },
   {
     "name": "Code Formatters",
@@ -367,6 +420,61 @@
       "name": "Image Editors - Bulk",
       "url": "https://www.iloveimg.com/"
     }]
+  },
+  {
+    "name": "Spell checker",
+    "list": [{
+      "name": "typosaur - Spell checking",
+      "url": "https://typosaur.us/"
+    }]
+  },
+  {
+    "name": "Converters",
+    "list": [{
+        "name": "convertio image converter",
+        "url": "https://convertio.co/"
+      },
+      {
+        "name": "convertio Bulk",
+        "url": "https://www.jpeg.io/"
+      },
+      {
+        "name": "CSS to Sass Converter",
+        "url": "https://css2sass.herokuapp.com/"
+      }
+    ]
+  },
+  {
+    "name": "Responsive",
+    "list": [{
+        "name": "yesviz",
+        "url": "https://yesviz.com/"
+      },
+      {
+        "name": "responsiv",
+        "url": "http://responsiv.eu/er.php"
+      },
+      {
+        "name": "All Devices Responsive",
+        "url": "http://www.infobyip.com/testwebsiteresolution.php"
+      },
+      {
+        "name": "manojvivek",
+        "url": "https://manojvivek.github.io/responsively-app/"
+      },
+      {
+        "name": "material",
+        "url": "https://material.io/resources/resizer/"
+      },
+      {
+        "name": "responsinator",
+        "url": "http://www.responsinator.com/"
+      },
+      {
+        "name": "Find Media Queries for any devices",
+        "url": "https://simplecss.eu/"
+      }
+    ]
   }
 
 ]
