@@ -7,6 +7,18 @@
       {
         "name": "The stocks (Bulk)",
         "url": "http://thestocks.im/"
+      },
+      {
+        "name": "tympanus (Bulk)",
+        "url": "https://tympanus.net/codrops/"
+      },
+      {
+        "name": "Best Jquery (Bulk)",
+        "url": "https://www.bestjquery.com/"
+      },
+      {
+        "name": "codyhouse Bulk components",
+        "url": "https://codyhouse.co/ds/components"
       }
     ]
   }, {
@@ -61,6 +73,10 @@
       {
         "name": "Icons 8 - Bulk",
         "url": "https://icons8.com/icons"
+      },
+      {
+        "name": "fontastic - Vector Icons",
+        "url": "http://fontastic.me/"
       }
     ]
   },
@@ -109,6 +125,10 @@
       {
         "name": "Free Images - Bulk",
         "url": "https://www.freeimages.com/"
+      },
+      {
+        "name": "Maxkit - videos free",
+        "url": "https://mixkit.co/"
       }
     ]
   },
@@ -125,6 +145,18 @@
       {
         "name": "color mind - color pallet",
         "url": "http://colormind.io/"
+      },
+      {
+        "name": "Gradient animator",
+        "url": "https://www.gradient-animator.com/"
+      },
+      {
+        "name": "Color Gradient Generator",
+        "url": "https://mycolor.space/gradient"
+      },
+      {
+        "name": "Pink Colors",
+        "url": "https://picular.co/pink"
       }
     ]
   },
@@ -133,6 +165,207 @@
     "list": [{
       "name": "font Fabric",
       "url": "https://www.fontfabric.com/"
+    }]
+  },
+  {
+    "name": "Backgrounds Assets",
+    "list": [{
+        "name": "Transparent Textures",
+        "url": "https://www.transparenttextures.com/"
+      },
+      {
+        "name": "williamngan 3D, Transparent",
+        "url": "http://williamngan.github.io/kubist/"
+      },
+      {
+        "name": "Cool Background",
+        "url": "https://coolbackgrounds.io/"
+      },
+      {
+        "name": "Web Gradients - Gradients",
+        "url": "https://webgradients.com/"
+      },
+      {
+        "name": "FANCY-BORDER-RADIUS",
+        "url": "https://9elements.github.io/fancy-border-radius/"
+      },
+      {
+        "name": "Web Background Animation Effects - Bulk",
+        "url": "https://bashooka.com/coding/web-background-animation-effects/"
+      }
+    ]
+  },
+  {
+    "name": "Plugins Assets",
+    "list": [{
+        "name": "tympanus Sidebar animations, header scroll effects",
+        "url": "https://tympanus.net/Development/SidebarTransitions/"
+      },
+      {
+        "name": "countUp - Numbers Count up",
+        "url": "https://inorganik.github.io/countUp.js/"
+      },
+      {
+        "name": "Page Scroll Animation",
+        "url": "https://alvarotrigo.com/pagePiling/"
+      },
+      {
+        "name": "Scroll Animation",
+        "url": "http://scrollme.nckprsn.com/"
+      },
+      {
+        "name": "Video background -Full video",
+        "url": "http://vodkabears.github.io/vide/"
+      },
+      {
+        "name": "Vfitvidsjs -video Player",
+        "url": "http://fitvidsjs.com/"
+      },
+      {
+        "name": "Video Player",
+        "url": "https://redtettemer.github.io/rtop-video-player/"
+      },
+      {
+        "name": "CSS Lint CSS Error finder",
+        "url": "http://csslint.net/"
+      },
+      {
+        "name": "Isotope - Filter Animation",
+        "url": "https://isotope.metafizzy.co/"
+      },
+      {
+        "name": "Fast Click - Click Event speed improve",
+        "url": "https://github.com/ftlabs/fastclick"
+      },
+      {
+        "name": "typed - Text Typed Animation",
+        "url": "https://mattboldt.com/demos/typed-js/"
+      },
+      {
+        "name": "parallax js",
+        "url": "http://pixelcog.github.io/parallax.js/"
+      },
+      {
+        "name": "photoswipe - Photo viewing",
+        "url": "https://photoswipe.com/"
+      },
+      {
+        "name": "Grid Filter - Sort,search",
+        "url": "https://muuri.dev/"
+      },
+      {
+        "name": "ANCHOR SCROLL",
+        "url": "http://www.virgiliudiaconu.com/work/anchor-scroll"
+      },
+      {
+        "name": "Image Focus Point",
+        "url": "https://github.com/jonom/jquery-focuspoint"
+      },
+      {
+        "name": "SVG Magic",
+        "url": "http://dirkgroenen.nl/SVGMagic/"
+      },
+      {
+        "name": "Rounded Slider -  counter",
+        "url": "https://roundsliderui.com/demos.html"
+      },
+      {
+        "name": "Multi navigation menu",
+        "url": "https://slinky.js.org/"
+      }
+    ]
+  },
+  {
+    "name": "Animation Plugins Assets",
+    "list": [{
+        "name": "Anime js - Animation",
+        "url": "https://animejs.com/"
+      },
+      {
+        "name": "SVG js - SVG Animation",
+        "url": "https://svgjs.com/docs/3.0/"
+      },
+      {
+        "name": "AOS - Site scroll Animation",
+        "url": "https://michalsnik.github.io/aos/"
+      },
+      {
+        "name": "Minimamente - CSS animation",
+        "url": "https://www.minimamente.com/project/magic/"
+      },
+      {
+        "name": "blivesta - Jquery animation",
+        "url": "http://git.blivesta.com/animsition/"
+      },
+      {
+        "name": "prinzhorn - scroll animation",
+        "url": "http://prinzhorn.github.io/skrollr/"
+      },
+      {
+        "name": "Hover.CSS - Buttons animation",
+        "url": "http://ianlunn.github.io/Hover/"
+      },
+      {
+        "name": "CSS Loaders - Loaders animation",
+        "url": "https://projects.lukehaas.me/css-loaders/"
+      },
+      {
+        "name": "Scrolling with CSS variables",
+        "url": "https://basicscroll.electerious.com/"
+      }
+    ]
+  },
+  {
+    "name": "CSS Generator",
+    "list": [{
+        "name": "CSS3 Generator - CSS3 Generator",
+        "url": "http://css3generator.com/"
+      },
+      {
+        "name": "CSS Arrows - CSS Arrows",
+        "url": "http://www.cssarrowplease.com/"
+      },
+      {
+        "name": "CSS Triangle  - Triangles",
+        "url": "http://apps.eky.hk/css-triangle-generator/"
+      }
+    ]
+  },
+  {
+    "name": "Study Material",
+    "list": [{
+      "name": "cssreference - CSS Study material",
+      "url": "https://cssreference.io/"
+    }]
+  },
+  {
+    "name": "Code Formatters",
+    "list": [{
+      "name": "codebeautify - Bulk",
+      "url": "https://codebeautify.org/"
+    }]
+  },
+  {
+    "name": "Image Hover Effects / Filter effects",
+    "list": [{
+        "name": "Image Hover Effects - bootstrap",
+        "url": "https://miketricking.github.io/bootstrap-image-hover/"
+      },
+      {
+        "name": "Image Filters - CSS image filter",
+        "url": "https://www.cssfilters.co/"
+      },
+      {
+        "name": "Image Filters - Instagram CSS image filter",
+        "url": "https://una.im/CSSgram/"
+      }
+    ]
+  },
+  {
+    "name": "Image Editors",
+    "list": [{
+      "name": "Image Editors - Bulk",
+      "url": "https://www.iloveimg.com/"
     }]
   }
 
