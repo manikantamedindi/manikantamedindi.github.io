@@ -25,7 +25,8 @@
         "url": "https://freefrontend.com/"
       }
     ]
-  }, {
+  },
+  {
     "name": "Image Tools",
     "list": [{
       "name": "image Resize",

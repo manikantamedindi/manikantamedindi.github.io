@@ -9,6 +9,8 @@
   <title>Web development Tools</title>
   <link rel="icon" href="/img/favicon.ico" type="image/x-icon" />
   <!-- External CSS files -->
+  <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/aos.css">
   <link rel="stylesheet" href="css/base.css">
@@ -27,8 +29,11 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
+          <label>
+            Search name: <input type="text" v-model='searchString'>
+          </label> <br>
           <div class="card-columns">
-            <div class="card" v-for="(tool, index) in tools" :key="tool">
+            <div class="card" v-for="(tool, index) in filteredList" :key="index">
               <div class="each">
                 <h3 class="main-title"><span>{{ index + 1}}.</span>{{tool.name}}</h3>
                 <div class="list-items">
@@ -51,6 +56,8 @@
   <script src="js/jquery.js"></script>
   <script src="js/bootstrap.js"></script>
   <script src="js/popper.js"></script>
+  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+
   <Script src="js/aos.js"> </Script>
   <script src="js/vendors/axios.min.js"></script>
   <script src="js/vendors/vue.js"></script>
