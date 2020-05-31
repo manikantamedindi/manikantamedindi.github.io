@@ -10,6 +10,15 @@
   color: #27debf;
 }
 
+#tools-page .card-columns {
+  -webkit-column-count: 2;
+          column-count: 2;
+}
+
+#tools-page .card-columns .card {
+  background: transparent;
+}
+
 #tools-page .each {
   margin-bottom: 45px;
 }

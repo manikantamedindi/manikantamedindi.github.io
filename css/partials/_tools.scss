@@ -9,6 +9,14 @@
     color: $third;
   }
 
+  .card-columns {
+    column-count: 2;
+
+    .card {
+      background: transparent;
+    }
+  }
+
   .each {
     margin-bottom: 45px;
 

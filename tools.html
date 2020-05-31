@@ -26,21 +26,25 @@
     </div>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-6" v-for="(tool, index) in tools" :key="tool">
-          <div class="each">
-            <h3 class="main-title"><span>{{ index + 1}}.</span>{{tool.name}}</h3>
-            <div class="list-items">
-              <ul>
-                <li v-for="(list, index) in tool.list" :key="list" class="each-list-item">
-                  <p><span>{{ index + 1}}.</span>{{list.name}} <a :href="list.url" target="_blank">{{list.url}}</a></p>
-                </li>
-              </ul>
+        <div class="col-md-12">
+          <div class="card-columns">
+            <div class="card" v-for="(tool, index) in tools" :key="tool">
+              <div class="each">
+                <h3 class="main-title"><span>{{ index + 1}}.</span>{{tool.name}}</h3>
+                <div class="list-items">
+                  <ul>
+                    <li v-for="(list, index) in tool.list" :key="list" class="each-list-item">
+                      <p><span>{{ index + 1}}.</span>{{list.name}} <a :href="list.url" target="_blank">{{list.url}}</a>
+                      </p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-
   </section>
 
   <!-- External JAVASCRIPT files -->
