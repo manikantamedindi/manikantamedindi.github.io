@@ -394,9 +394,18 @@
   {
     "name": "Code Formatters",
     "list": [{
-      "name": "codebeautify - Bulk",
-      "url": "https://codebeautify.org/"
-    }]
+        "name": "codebeautify - Bulk",
+        "url": "https://codebeautify.org/"
+      },
+      {
+        "name": "freeformatter - Bulk",
+        "url": "https://www.freeformatter.com/css-beautifier.html"
+      },
+      {
+        "name": "cleancss",
+        "url": "https://www.cleancss.com/css-beautify/"
+      }
+    ]
   },
   {
     "name": "Image Hover Effects / Filter effects",
@@ -417,9 +426,22 @@
   {
     "name": "Image Editors",
     "list": [{
-      "name": "Image Editors - Bulk",
-      "url": "https://www.iloveimg.com/"
-    }]
+        "name": "birme",
+        "url": "https://www.birme.net/"
+      },
+      {
+        "name": "photopea",
+        "url": "https://www.photopea.com/"
+      },
+      {
+        "name": "Image Editors - Bulk",
+        "url": "https://www.iloveimg.com/"
+      },
+      {
+        "name": "pixlr - Bulk",
+        "url": "https://pixlr.com/editor/"
+      }
+    ]
   },
   {
     "name": "Spell checker",
@@ -441,6 +463,10 @@
       {
         "name": "CSS to Sass Converter",
         "url": "https://css2sass.herokuapp.com/"
+      },
+      {
+        "name": "Image converter - Bulk",
+        "url": "https://image.online-convert.com/convert-to-webp"
       }
     ]
   },
@@ -473,6 +499,22 @@
       {
         "name": "Find Media Queries for any devices",
         "url": "https://simplecss.eu/"
+      }
+    ]
+  },
+  {
+    "name": "Image Compressor",
+    "list": [{
+        "name": "tinyjpg",
+        "url": "https://tinyjpg.com/"
+      },
+      {
+        "name": "compressjpeg",
+        "url": "https://compressjpeg.com/"
+      },
+      {
+        "name": "compressor",
+        "url": "https://compressor.io/"
       }
     ]
   }
