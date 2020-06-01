@@ -103,6 +103,108 @@
   color: black !important;
 }
 
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el {
+  min-width: 12em;
+  position: relative;
+  display: inline-block;
+  margin-right: 1em;
+  max-height: 2em;
+  overflow: hidden;
+  top: .5em;
+  cursor: pointer;
+  text-align: left;
+  white-space: nowrap;
+  color: #444;
+  outline: none;
+  border: .06em solid transparent;
+  border-radius: 1em;
+  background-color: #cde4f5;
+  -webkit-transition: 0.3s all ease-in-out;
+  transition: 0.3s all ease-in-out;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el input:focus + label {
+  background: #def;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el input {
+  width: 1px;
+  height: 1px;
+  display: inline-block;
+  position: absolute;
+  opacity: 0.01;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el label {
+  border-top: .06em solid #d9d9d9;
+  display: block;
+  height: 2em;
+  line-height: 2em;
+  padding-left: 1em;
+  padding-right: 3em;
+  cursor: pointer;
+  position: relative;
+  -webkit-transition: 0.3s color ease-in-out;
+  transition: 0.3s color ease-in-out;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el label:nth-child(2) {
+  margin-top: 2em;
+  border-top: .06em solid #d9d9d9;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el input:checked + label {
+  display: block;
+  border-top: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el input:checked + label:nth-child(2) {
+  margin-top: 0;
+  position: relative;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el::after {
+  content: "";
+  position: absolute;
+  right: 0.8em;
+  top: 0.9em;
+  border: 0.3em solid #3694d7;
+  border-color: #3694d7 transparent transparent transparent;
+  -webkit-transition: .4s all ease-in-out;
+  transition: .4s all ease-in-out;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el.expanded {
+  border: 0.06em solid #3694d7;
+  background: #fff;
+  border-radius: .25em;
+  padding: 0;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 3px 3px 5px 0px;
+          box-shadow: rgba(0, 0, 0, 0.1) 3px 3px 5px 0px;
+  max-height: 15em;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el.expanded label {
+  border-top: .06em solid #d9d9d9;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el.expanded label:hover {
+  color: #3694d7;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el.expanded input:checked + label {
+  color: #3694d7;
+}
+
+#tools-page .search-filters ul li .overall-dropdown-filter .dropdown-el.expanded::after {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+  top: .55em;
+}
+
 #tools-page .card-columns {
   -webkit-column-count: 3;
           column-count: 3;
