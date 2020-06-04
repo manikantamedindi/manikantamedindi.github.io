@@ -216,6 +216,10 @@
   border-radius: 5px;
 }
 
+#tools-page .card-columns .card:nth-child(odd) {
+  background: #072d40;
+}
+
 #tools-page .card-columns .card .each .main-title {
   font-size: 1.3rem;
   color: #C0C9D1;
@@ -276,6 +280,24 @@
     -webkit-column-count: 2;
             column-count: 2;
   }
+}
+
+.github-tools h3 {
+  font-size: 1.3em;
+  margin-bottom: 20px;
+  color: #C0C9D1;
+}
+
+.github-tools table thead tr th {
+  padding: 0;
+}
+
+.github-tools table tbody tr td {
+  padding-bottom: 15px;
+}
+
+.github-tools table tbody a {
+  color: #FEE715FF;
 }
 
 #portfolio {

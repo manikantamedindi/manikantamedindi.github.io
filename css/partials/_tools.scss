@@ -218,6 +218,10 @@
       padding: 15px 10px;
       border-radius: 5px;
 
+      &:nth-child(odd) {
+        background: #072d40;
+      }
+
       .each {
 
         .main-title {
@@ -291,6 +295,37 @@
 
     .card-columns {
       column-count: 2;
+    }
+  }
+}
+
+.github-tools {
+  h3 {
+    font-size: 1.3em;
+    margin-bottom: 20px;
+    color: #C0C9D1;
+  }
+
+  table {
+    thead {
+      tr {
+        th {
+          padding: 0;
+        }
+      }
+    }
+
+    tbody {
+      tr {
+        td {
+          padding-bottom: 15px;
+        }
+
+      }
+
+      a {
+        color: #FEE715FF;
+      }
     }
   }
 }
