@@ -4,7 +4,7 @@
 
 #tools-page .tools {
   color: #fff;
-  padding: 5em 4em;
+  padding: 5em 0.5em;
 }
 
 #tools-page .page-heading {
@@ -298,6 +298,7 @@
 
 .github-tools table tbody a {
   color: #FEE715FF;
+  padding-right: 5px;
 }
 
 #portfolio {
