@@ -32,38 +32,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <div class="card-columns">
-            <div class="card" v-for="(tool, index) in filteredList" :key="index">
-              <div class="each">
-                <h3 class="main-title"><span>{{ index + 1}}.</span>{{tool.name}}</h3>
-                <table>
-                  <thead>
-                    <tr>
-                      <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                        &nbsp; &nbsp;</th>
-                      <th>Description</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr v-for="(list, index) in tool.list" :key="list" class="each-list-item">
-                      <td><a :href="list.url" target="_blank">{{list.Website}}</a></td>
-                      <td>{{list.Description}}</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- <section class="tools">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="search-filters d-none">
+          <div class="search-filters">
             <ul>
               <li>
                 <div class="overall-search-filter">
@@ -75,7 +44,7 @@
                 </div>
 
               </li>
-              <li>
+              <li class="d-none">
                 <div class="overall-dropdown-filter">
                   <span class="dropdown-el">
                     <input type="radio" name="sortType" value="Relevance" checked="checked" id="sort-relevance"><label
@@ -106,21 +75,28 @@
             <div class="card" v-for="(tool, index) in filteredList" :key="index">
               <div class="each">
                 <h3 class="main-title"><span>{{ index + 1}}.</span>{{tool.name}}</h3>
-                <div class="list-items">
-                  <ul>
-                    <li v-for="(list, index) in tool.list" :key="list" class="each-list-item">
-                      <p><span>{{ index + 1}}.</span>{{list.name}} <a :href="list.url" target="_blank">{{list.url}}</a>
-                      </p>
-                    </li>
-                  </ul>
-                </div>
+                <table>
+                  <thead>
+                    <tr>
+                      <th>Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                        &nbsp; &nbsp;</th>
+                      <th>Description</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr v-for="(list, index) in tool.list" :key="list" class="each-list-item">
+                      <td><a :href="list.url" target="_blank">{{list.Website}}</a></td>
+                      <td>{{list.Description}}</td>
+                    </tr>
+                  </tbody>
+                </table>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </section> -->
+  </section>
 
   <!-- External JAVASCRIPT files -->
   <script src="js/jquery.js"></script>
