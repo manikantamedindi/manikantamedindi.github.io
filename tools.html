@@ -26,14 +26,18 @@
     <h3>Web Development Tools</h3>
   </div>
 
-
-
   <section class="github-tools tools" id="app">
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="search-filters">
             <ul>
+              <li>
+                <button type="button" class="btn btn-primary add-tool-button btn-1" data-toggle="modal"
+                  data-target="#exampleModalLong">
+                  Add Tool
+                </button>
+              </li>
               <li>
                 <div class="overall-search-filter">
                   <input class="submitEnter search-box" v-model='searchString' maxlength="128"
@@ -42,7 +46,6 @@
                       <img class="img-fluid" src="img/icons/search.svg" alt="">
                     </span></label>
                 </div>
-
               </li>
               <li class="d-none">
                 <div class="overall-dropdown-filter">
@@ -91,6 +94,50 @@
                   </tbody>
                 </table>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle"
+      aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+
+          <div class="modal-body">
+            <div class="add-employee-form">
+              <form>
+                <input type="text" v-model="name" />{{name}}<br />
+                <input type="text" v-model="last" />{{last}}<br />
+                <input type="text" v-model="index" />{{index}}<br />
+                <select v-model="grade">
+                  <option>5</option>
+                  <option>6</option>
+                  <option>7</option>
+                  <option>8</option>
+                  <option>9</option>
+                  <option>10</option>
+                </select>
+                {{grade}}
+                <button type="button" v-on:click="add()">Add To Table</button>
+                <button type="button" v-on:click="saveFile()">saveFile</button>
+              </form>
+              <table border="1">
+                <thead>
+                  <td>Name</td>
+                  <td>Last Name</td>
+                  <td>Index</td>
+                  <td>Grade</td>
+                </thead>
+                <tbody>
+                  <tr v-for="x in arr">
+                    <td>{{x.first}}</td>
+                    <td>{{x.lastn}}</td>
+                    <td>{{x.index}}</td>
+                    <td>{{x.grade}}</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
           </div>
         </div>

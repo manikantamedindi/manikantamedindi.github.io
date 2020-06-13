@@ -1,7 +1,6 @@
 #tools-page {
   background: $primary;
 
-
   .tools {
     color: #fff;
     padding: 5em 0.5em;
@@ -207,6 +206,16 @@
 
 
       }
+
+      .add-tool-button {
+        background: #19232d;
+        border: none;
+        margin-right: 25px;
+        padding: 5px 20px;
+        font-size: 1.1em;
+        letter-spacing: 0.5px;
+        box-shadow: 0 0px 2px 0 #ffffff;
+      }
     }
   }
 
@@ -330,3 +339,4 @@
     }
   }
 }
+

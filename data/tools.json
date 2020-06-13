@@ -1,114 +1,137 @@
-[{
+[
+  {
     "name": "UI Graphics",
     "list": [{
         "Website": "UI Design Daily",
         "Description": "Awesome UI Components of all types",
-        "url": "https://uidesigndaily.com/"
+        "url": "https://uidesigndaily.com/",
+        "keywords": []
       },
       {
         "Website": "100 Daily UI",
         "Description": "Free Figma library of products, elements, and screens",
-        "url": "https://100dailyui.webflow.io/"
+        "url": "https://100dailyui.webflow.io/",
+        "keywords": []
       },
       {
         "Website": "Sketch App\\n Sources",
         "Description": "Sketch UIs, wireframes, icons and much more",
-        "url": "https://www.sketchappsources.com/"
+        "url": "https://www.sketchappsources.com/",
+        "keywords": []
       },
       {
         "Website": "Humaaans",
         "Description": "Cool illustrations of people with the ability to mix and match",
-        "url": "https://www.humaaans.com/"
+        "url": "https://www.humaaans.com/",
+        "keywords": []
       },
       {
         "Website": "Paaatterns",
         "Description": "Free collection of beautiful patterns for all vector formats",
-        "url": "https://products.ls.graphics/paaatterns/"
+        "url": "https://products.ls.graphics/paaatterns/",
+        "keywords": []
       },
       {
         "Website": "thepatternlibrary",
         "Description": "Free beautiful background patterns",
-        "url": "http://thepatternlibrary.com/"
+        "url": "http://thepatternlibrary.com/",
+        "keywords": []
       },
       {
         "Website": "404 illustration",
         "Description": "free illustrations for 404 pages",
-        "url": "https://error404.fun/"
+        "url": "https://error404.fun/",
+        "keywords": []
       },
       {
         "Website": "Drawkit.io",
         "Description": "Illustrations for designers and startups",
-        "url": "https://www.drawkit.io/"
+        "url": "https://www.drawkit.io/",
+        "keywords": []
       },
       {
         "Website": "Undraw.co",
         "Description": "Open-source illustrations for any idea you can imagine and create",
-        "url": "https://undraw.co/"
+        "url": "https://undraw.co/",
+        "keywords": []
       },
       {
         "Website": "Illustration.co",
         "Description": "Open-source illustrations kit",
-        "url": "https://illlustrations.co/"
+        "url": "https://illlustrations.co/",
+        "keywords": []
       },
       {
         "Website": "Manypixels.co",
         "Description": "Monochromatic, Isometric high quality illustrations",
-        "url": "https://www.manypixels.co/gallery/"
+        "url": "https://www.manypixels.co/gallery/",
+        "keywords": []
       },
       {
         "Website": "Opendoodles",
         "Description": "Free sketchy illustrations",
-        "url": "https://www.opendoodles.com/"
+        "url": "https://www.opendoodles.com/",
+        "keywords": []
       },
       {
         "Website": "Open Peeps",
         "Description": "Hand drawn illustration library",
-        "url": "https://www.openpeeps.com/"
+        "url": "https://www.openpeeps.com/",
+        "keywords": []
       },
       {
         "Website": "UI Space",
         "Description": "Thousands of great UI freebies",
-        "url": "https://uispace.net/"
+        "url": "https://uispace.net/",
+        "keywords": []
       },
       {
         "Website": "Animations.co",
         "Description": "Beautiful, customizable animated GIF icons",
-        "url": "http://animaticons.co/"
+        "url": "http://animaticons.co/",
+        "keywords": []
       },
       {
         "Website": "Uplabs",
         "Description": "High-quality design resources (Free & Premium)",
-        "url": "https://www.uplabs.com/"
+        "url": "https://www.uplabs.com/",
+        "keywords": []
       },
       {
         "Website": "InvisionApp",
         "Description": "Library of free, high-quality UI kits, icon packs, and mockups",
-        "url": "https://www.invisionapp.com/inside-design/design-resources/"
+        "url": "https://www.invisionapp.com/inside-design/design-resources/",
+        "keywords": []
       },
       {
         "Website": "Open Doodles",
         "Description": "A Free Set of Sketchy Illustrations",
-        "url": "https://www.opendoodles.com/"
+        "url": "https://www.opendoodles.com/",
+        "keywords": []
       },
       {
         "Website": "Avataaars",
         "Description": "Free sketch library of avatars illustrations by Pablo Stanley",
-        "url": "https://avataaars.com/"
+        "url": "https://avataaars.com/",
+        "keywords": []
       },
       {
         "Website": "FreebieSketch",
         "Description": "Free Sketch designs, wireframes, illustrations, and more.",
-        "url": "https://freebiesketch.com/"
+        "url": "https://freebiesketch.com/",
+        "keywords": []
       },
       {
         "Website": "Blush",
         "Description": "Free customizable illustrations with Figma Plugin",
-        "url": "https://blush.design/"
+        "url": "https://blush.design/",
+        "keywords": []
       },
       {
         "Website": "Hero Patterns",
         "Description": "A collection of repeatable SVG background patterns",
-        "url": "http://www.heropatterns.com/"
+        "url": "http://www.heropatterns.com/",
+        "keywords": []
       }
     ]
   },
@@ -117,132 +140,158 @@
     "list": [{
         "Website": "Google Fonts",
         "Description": "Library of around 1000 free licensed font families",
-        "url": "https://fonts.google.com/"
+        "url": "https://fonts.google.com/",
+        "keywords": []
       },
       {
         "Website": "DaFont",
         "Description": "Archive of freely downloadable fonts",
-        "url": "https://www.dafont.com/"
+        "url": "https://www.dafont.com/",
+        "keywords": []
       },
       {
         "Website": "Use & Modify",
         "Description": "Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces",
-        "url": "https://usemodify.com/"
+        "url": "https://usemodify.com/",
+        "keywords": []
       },
       {
         "Website": "1001 Free Fonts",
         "Description": "I think the name speaks for itself",
-        "url": "https://www.1001freefonts.com/"
+        "url": "https://www.1001freefonts.com/",
+        "keywords": []
       },
       {
         "Website": "Font Squirrel",
         "Description": "Font Squirrel scours the internet for high quality, legitimately free fonts",
-        "url": "https://www.fontsquirrel.com/"
+        "url": "https://www.fontsquirrel.com/",
+        "keywords": []
       },
       {
         "Website": "Font\\n Fabric",
         "Description": "A digital type foundry crafting retail fonts and custom typography for various brands",
-        "url": "https://www.fontfabric.com/free-fonts/"
+        "url": "https://www.fontfabric.com/free-fonts/",
+        "keywords": []
       },
       {
         "Website": "What\\n Font",
         "Description": "Tool for finding the fonts of a website without having to search in the devtools",
-        "url": "http://www.chengyinliu.com/whatfont.html"
+        "url": "http://www.chengyinliu.com/whatfont.html",
+        "keywords": []
       },
       {
         "Website": "Tiff",
         "Description": "A type diff tool that visually contrasts the differences between two fonts",
-        "url": "https://tiff.herokuapp.com/"
+        "url": "https://tiff.herokuapp.com/",
+        "keywords": []
       },
       {
         "Website": "Font Flame",
         "Description": "Tool for pairing fonts to see how they look together",
-        "url": "http://app.fontflame.com/"
+        "url": "http://app.fontflame.com/",
+        "keywords": []
       },
       {
         "Website": "TypeKit Practice",
         "Description": "Learn about typography practices",
-        "url": "https://practice.typekit.com/"
+        "url": "https://practice.typekit.com/",
+        "keywords": []
       },
       {
         "Website": "Fontjoy",
         "Description": "Generate font pairing in one click",
-        "url": "https://fontjoy.com/"
+        "url": "https://fontjoy.com/",
+        "keywords": []
       },
       {
         "Website": "Golden Ratio",
         "Description": "Golden Ratio Typography Calculator",
-        "url": "https://grtcalculator.com/"
+        "url": "https://grtcalculator.com/",
+        "keywords": []
       },
       {
         "Website": "FontSpark",
         "Description": "Discover Better Fonts",
-        "url": "https://fontspark.app/"
+        "url": "https://fontspark.app/",
+        "keywords": []
       },
       {
         "Website": "FontPair",
         "Description": "Helps you pair Google Fonts together",
-        "url": "https://fontpair.co/"
+        "url": "https://fontpair.co/",
+        "keywords": []
       },
       {
         "Website": "Font Space",
         "Description": "A designer-centered free font website that has quick customizable previews",
-        "url": "https://www.fontspace.com/"
+        "url": "https://www.fontspace.com/",
+        "keywords": []
       },
       {
         "Website": "Abstract Fonts",
         "Description": "Fonts free for personal and commercial use",
-        "url": "http://www.abstractfonts.com/"
+        "url": "http://www.abstractfonts.com/",
+        "keywords": []
       },
       {
         "Website": "Free Typography",
         "Description": "A list of high quality fonts",
-        "url": "https://freetypography.com/"
+        "url": "https://freetypography.com/",
+        "keywords": []
       },
       {
         "Website": "Leon Sans",
         "Description": "A geometric sans-serif typeface made with code",
-        "url": "https://github.com/cmiscm/leonsans/"
+        "url": "https://github.com/cmiscm/leonsans/",
+        "keywords": []
       },
       {
         "Website": "Lexend",
         "Description": "A variable font empirically shown to significantly improve reading-proficiency",
-        "url": "https://www.lexend.com/"
+        "url": "https://www.lexend.com/",
+        "keywords": []
       },
       {
         "Website": "Fonts for Apple\\n Platforms",
         "Description": "Get the details, frameworks, and tools you need to use system fonts for Apple platforms in\\n your apps",
-        "url": "https://developer.apple.com/fonts/"
+        "url": "https://developer.apple.com/fonts/",
+        "keywords": []
       },
       {
         "Website": "SFWin",
         "Description": "San Francisco Fonts for Windows 10 and non-Apple Platform",
-        "url": "https://github.com/blaisck/sfwin/"
+        "url": "https://github.com/blaisck/sfwin/",
+        "keywords": []
       },
       {
         "Website": "Font Flipper",
         "Description": "Preview 800+ Google Fonts on top of your own designs, without having to download the fonts",
-        "url": "https://fontflipper.com/"
+        "url": "https://fontflipper.com/",
+        "keywords": []
       },
       {
         "Website": "Fonts Arena",
         "Description": "Free curated fonts",
-        "url": "https://fontsarena.com/"
+        "url": "https://fontsarena.com/",
+        "keywords": []
       },
       {
         "Website": "Befonts",
         "Description": "High quality fonts for free",
-        "url": "https://befonts.com/"
+        "url": "https://befonts.com/",
+        "keywords": []
       },
       {
         "Website": "Arabic fonts",
         "Description": "Arabic fonts for free",
-        "url": "https://arabicfonts.net/"
+        "url": "https://arabicfonts.net/",
+        "keywords": []
       },
       {
         "Website": "FontDrop",
         "Description": "Simple and easy way to view the contents of font files",
-        "url": "https://fontdrop.info"
+        "url": "https://fontdrop.info",
+        "keywords": []
       }
     ]
   },
@@ -251,197 +300,236 @@
     "list": [{
         "Website": "UXWing",
         "Description": "Well Optimized, Free icons for commercial use",
-        "url": "https://uxwing.com/"
+        "url": "https://uxwing.com/",
+        "keywords": []
       },
       {
         "Website": "Shapedfonts\\n Iconclub",
         "Description": "8000+ free icons",
-        "url": "https://shapedfonts.com/iconclub/"
+        "url": "https://shapedfonts.com/iconclub/",
+        "keywords": []
       },
       {
         "Website": "Feather Icons",
         "Description": "Beautiful, customizable open source icons",
-        "url": "https://feathericons.com/"
+        "url": "https://feathericons.com/",
+        "keywords": []
       },
       {
         "Website": "Tabler Icons",
         "Description": "470+ highly customizable open source SVG icons",
-        "url": "https://tablericons.com/"
+        "url": "https://tablericons.com/",
+        "keywords": []
       },
       {
         "Website": "Simple Icons",
         "Description": "1307 Free SVG icons for popular brands",
-        "url": "https://simpleicons.org/"
+        "url": "https://simpleicons.org/",
+        "keywords": []
       },
       {
         "Website": "Instant Logo Search",
         "Description": "thousands of free brands logos ( SVG - PNG )",
-        "url": "http://instantlogosearch.com/"
+        "url": "http://instantlogosearch.com/",
+        "keywords": []
       },
       {
         "Website": "Linear Icons",
         "Description": "1000+ Ultra crisp vector icons",
-        "url": "https://linearicons.com/free"
+        "url": "https://linearicons.com/free",
+        "keywords": []
       },
       {
         "Website": "Entypo",
         "Description": "411 carefully crafted premium pictograms by Daniel Bruce",
-        "url": "http://www.entypo.com/"
+        "url": "http://www.entypo.com/",
+        "keywords": []
       },
       {
         "Website": "Icons8",
         "Description": "Free icons, photos, vectors and tools",
-        "url": "https://icons8.com/"
+        "url": "https://icons8.com/",
+        "keywords": []
       },
       {
         "Website": "Flat Icon",
         "Description": "The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats",
-        "url": "https://www.flaticon.com/"
+        "url": "https://www.flaticon.com/",
+        "keywords": []
       },
       {
         "Website": "The Noun Project",
         "Description": "Over 2 Million curated icons, created by a global community",
-        "url": "https://thenounproject.com/"
+        "url": "https://thenounproject.com/",
+        "keywords": []
       },
       {
         "Website": "Iconscout",
         "Description": "Free Download Icons illustrations stock photos at one place",
-        "url": "https://iconscout.com/"
+        "url": "https://iconscout.com/",
+        "keywords": []
       },
       {
         "Website": "Nucleo App",
         "Description": "Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize\\n and export all your icons. (Free & Paid)",
-        "url": "https://nucleoapp.com/"
+        "url": "https://nucleoapp.com/",
+        "keywords": []
       },
       {
         "Website": "Icon-icons.com",
         "Description": "Free Icons PNG, ICO, ICNS and Vector file SVG",
-        "url": "https://icon-icons.com/"
+        "url": "https://icon-icons.com/",
+        "keywords": []
       },
       {
         "Website": "Bootstrap Icons",
         "Description": "Free Icons built for Bootstrap but they'll work in any project",
-        "url": "https://icons.getbootstrap.com/"
+        "url": "https://icons.getbootstrap.com/",
+        "keywords": []
       },
       {
         "Website": "Remix Icon",
         "Description": "Simply Delightful Icon System",
-        "url": "https://remixicon.com/"
+        "url": "https://remixicon.com/",
+        "keywords": []
       },
       {
         "Website": "Iconmonstr",
         "Description": "Discover 4496+ free icons in 313 collections",
-        "url": "https://iconmonstr.com/"
+        "url": "https://iconmonstr.com/",
+        "keywords": []
       },
       {
         "Website": "Vivid.js",
         "Description": "Ready to use Free and Open Source SVG Icons Pack JavaScript Library.",
-        "url": "https://webkul.github.io/vivid/"
+        "url": "https://webkul.github.io/vivid/",
+        "keywords": []
       },
       {
         "Website": "Iconfinder",
         "Description": "Free and premium vector icons in SVG, PNG, CSH and AI format",
-        "url": "https://www.iconfinder.com/"
+        "url": "https://www.iconfinder.com/",
+        "keywords": []
       },
       {
         "Website": "Lordicon",
         "Description": "50 free animated interactive icons",
-        "url": "https://lordicon.com/free-icons"
+        "url": "https://lordicon.com/free-icons",
+        "keywords": []
       },
       {
         "Website": "UseAnimations",
         "Description": "Free Animated Icons in SVG and Json Format(for lottie)",
-        "url": "https://useanimations.com/"
+        "url": "https://useanimations.com/",
+        "keywords": []
       },
       {
         "Website": "css.gg",
         "Description": "700+ Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM\\n & API",
-        "url": "https://css.gg/"
+        "url": "https://css.gg/",
+        "keywords": []
       },
       {
         "Website": "SVGPorn",
         "Description": "1000+ high-quality SVG logos",
-        "url": "https://svgporn.com"
+        "url": "https://svgporn.com",
+        "keywords": []
       },
       {
         "Website": "Payment System Logos",
         "Description": "Logos for payment systems available in png and svg",
-        "url": "https://github.com/mpay24/payment-logos/"
+        "url": "https://github.com/mpay24/payment-logos/",
+        "keywords": []
       },
       {
         "Website": "Browser Logos",
         "Description": "High resolution web browser logos",
-        "url": "https://github.com/alrra/browser-logos/"
+        "url": "https://github.com/alrra/browser-logos/",
+        "keywords": []
       },
       {
         "Website": "IconBros",
         "Description": "7843+ free icons grouped in 182 collections",
-        "url": "https://www.iconbros.com"
+        "url": "https://www.iconbros.com",
+        "keywords": []
       },
       {
         "Website": "LogoHub",
         "Description": "Generate and download your logo for free in PNG and SVG format",
-        "url": "https://logohub.io/"
+        "url": "https://logohub.io/",
+        "keywords": []
       },
       {
         "Website": "Material Design\\n Icons",
         "Description": "A icon collection allowing designers and developers targeting various platforms to download\\n icons in the format, color and size they need for any project.",
-        "url": "https://materialdesignicons.com/"
+        "url": "https://materialdesignicons.com/",
+        "keywords": []
       },
       {
         "Website": "Heroicons",
         "Description": "Free, open source icons from the creators of Tailwind CSS.",
-        "url": "https://heroicons.dev/"
+        "url": "https://heroicons.dev/",
+        "keywords": []
       },
       {
         "Website": "Zondicons",
         "Description": "A set of free premium SVG icons for you to use on your digital products.",
-        "url": "https://www.zondicons.com/icons.html"
+        "url": "https://www.zondicons.com/icons.html",
+        "keywords": []
       },
       {
         "Website": "Endless Icons",
         "Description": "A website offering a number of free icons. Icons are tagged and also compressed into kits.",
-        "url": "http://endlessicons.com/"
+        "url": "http://endlessicons.com/",
+        "keywords": []
       },
       {
         "Website": "Icomoon",
         "Description": "Browse 5500+ Free Icons. Add any set you wish to easily browse and search its icons.",
-        "url": "https://icomoon.io/app/"
+        "url": "https://icomoon.io/app/",
+        "keywords": []
       },
       {
         "Website": "Eva Icons",
         "Description": "Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions\\n and items.",
-        "url": "https://akveo.github.io/eva-icons/#/"
+        "url": "https://akveo.github.io/eva-icons/#/",
+        "keywords": []
       },
       {
         "Website": "Zondicons",
         "Description": "A set of free premium SVG icons for you to use on your digital products. you can download the\\n icons into your desktop",
-        "url": "http://www.zondicons.com/"
+        "url": "http://www.zondicons.com/",
+        "keywords": []
       },
       {
         "Website": "Entypo",
         "Description": "411 carefully crafted premium pictograms",
-        "url": "http://www.entypo.com/"
+        "url": "http://www.entypo.com/",
+        "keywords": []
       },
       {
         "Website": "Cryptoicons",
         "Description": "A set of 430 crypto and fiat currency icons. Completely free.",
-        "url": "http://cryptoicons.co/"
+        "url": "http://cryptoicons.co/",
+        "keywords": []
       },
       {
         "Website": "Ikonate",
         "Description": "Fully customisable & accessible vector icons",
-        "url": "https://ikonate.com/"
+        "url": "https://ikonate.com/",
+        "keywords": []
       },
       {
         "Website": "appicon",
         "Description": "Quickly generate app icons in diffrent sizes for your IOS, macOS and Android projects",
-        "url": "https://appicon.co/"
+        "url": "https://appicon.co/",
+        "keywords": []
       },
       {
         "Website": "LineIcons",
         "Description": "2000+ Essential Line Icons for Designers and Developers",
-        "url": "https://lineicons.com"
+        "url": "https://lineicons.com",
+        "keywords": []
       }
     ]
   },
@@ -450,22 +538,26 @@
     "list": [{
         "Website": "Favicon.io",
         "Description": "Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png\\n formats",
-        "url": "https://favicon.io/"
+        "url": "https://favicon.io/",
+        "keywords": []
       },
       {
         "Website": "Favicon\\n Generator",
         "Description": "Generate favicon ico files for your website",
-        "url": "http://tools.dynamicdrive.com/favicon/"
+        "url": "http://tools.dynamicdrive.com/favicon/",
+        "keywords": []
       },
       {
         "Website": "RealFaviconGenerator",
         "Description": "Generate icons for all platforms (Windows, iOS, Android)",
-        "url": "https://realfavicongenerator.net/"
+        "url": "https://realfavicongenerator.net/",
+        "keywords": []
       },
       {
         "Website": "FontIcon",
         "Description": "Generate favicons and images from Font Awesome icons",
-        "url": "https://gauger.io/fonticon/"
+        "url": "https://gauger.io/fonticon/",
+        "keywords": []
       }
     ]
   },
@@ -474,97 +566,116 @@
     "list": [{
         "Website": "Font Awesome",
         "Description": "The web's most popular icon set and toolkit",
-        "url": "https://fontawesome.com/"
+        "url": "https://fontawesome.com/",
+        "keywords": []
       },
       {
         "Website": "Line Awesome",
         "Description": "Swap in replacement of Font Awesome with modern line icons",
-        "url": "https://icons8.com/line-awesome"
+        "url": "https://icons8.com/line-awesome",
+        "keywords": []
       },
       {
         "Website": "Material\\n Icons",
         "Description": "Material design icon library",
-        "url": "https://material.io/resources/icons/"
+        "url": "https://material.io/resources/icons/",
+        "keywords": []
       },
       {
         "Website": "IonIcons",
         "Description": "Beautifully crafted open source icons from Ionic team",
-        "url": "http://ionicons.com/"
+        "url": "http://ionicons.com/",
+        "keywords": []
       },
       {
         "Website": "Zurb Foundation\\n Icons",
         "Description": "Customizable Foundation icons",
-        "url": "https://zurb.com/playground/foundation-icon-fonts-3"
+        "url": "https://zurb.com/playground/foundation-icon-fonts-3",
+        "keywords": []
       },
       {
         "Website": "Fontisto Icons",
         "Description": "Fontisto the iconic font and css toolkit · 616+ free icons",
-        "url": "https://fontisto.com/"
+        "url": "https://fontisto.com/",
+        "keywords": []
       },
       {
         "Website": "Boxicons",
         "Description": "Boxicons is a free collection of carefully crafted open source icons",
-        "url": "https://boxicons.com/"
+        "url": "https://boxicons.com/",
+        "keywords": []
       },
       {
         "Website": "Icofont",
         "Description": "2100+ free icons to spice up your creative designs",
-        "url": "https://icofont.com/"
+        "url": "https://icofont.com/",
+        "keywords": []
       },
       {
         "Website": "Material\\n Palette",
         "Description": "Free to pick palettes, icons and colors for Material Design]",
-        "url": "https://www.materialpalette.com/icons"
+        "url": "https://www.materialpalette.com/icons",
+        "keywords": []
       },
       {
         "Website": "Material Design Iconic Font",
         "Description": "Material design icon font",
-        "url": "http://zavoloklom.github.io/material-design-iconic-font/index.html"
+        "url": "http://zavoloklom.github.io/material-design-iconic-font/index.html",
+        "keywords": []
       },
       {
         "Website": "Vscode\\n Codicons",
         "Description": "The icon font from Visual Studio Code",
-        "url": "https://microsoft.github.io/vscode-codicons/dist/codicon.html"
+        "url": "https://microsoft.github.io/vscode-codicons/dist/codicon.html",
+        "keywords": []
       },
       {
         "Website": "Devicon",
         "Description": "Devicon is a set of icons representing programming languages, designing & development\\n tools",
-        "url": "https://konpa.github.io/devicon/"
+        "url": "https://konpa.github.io/devicon/",
+        "keywords": []
       },
       {
         "Website": "PaymentFont",
         "Description": "A sleek webfont for payment operators and methods. Featuring 116 icons",
-        "url": "https://paymentfont.com/"
+        "url": "https://paymentfont.com/",
+        "keywords": []
       },
       {
         "Website": "Weather\\n Icons",
         "Description": "Weather Icons is the only icon font with 222 weather themed icons",
-        "url": "https://erikflowers.github.io/weather-icons/"
+        "url": "https://erikflowers.github.io/weather-icons/",
+        "keywords": []
       },
       {
         "Website": "Stroke\\n 7",
         "Description": "202 thin stroke icons inspired by iOS 7",
-        "url": "https://themes-pixeden.com/font-demos/7-stroke/index.html"
+        "url": "https://themes-pixeden.com/font-demos/7-stroke/index.html",
+        "keywords": []
       },
       {
         "Website": "Jam Icons",
         "Description": "890+ handcrafted icons to make your web app awesome",
-        "url": "https://jam-icons.com/"
+        "url": "https://jam-icons.com/",
+        "keywords": []
       },
       {
         "Website": "Fontastic.me",
         "Description": "Create your custom icon fonts in seconds. Over 9,000 icons available to pick from or upload\\n your custom svg",
-        "url": "http://fontastic.me/"
+        "url": "http://fontastic.me/",
+        "keywords": []
       },
       {
         "Website": "Fontello",
         "Description": "200+ web icons where you can customize the names or codes of icons.",
-        "url": "http://fontello.com/"
+        "url": "http://fontello.com/",
+        "keywords": []
       },
       {
         "Website": "Linea",
         "Description": "Linea: Featuring 750+ Free Icons",
-        "url": "https://linea.io/"
+        "url": "https://linea.io/",
+        "keywords": []
       }
     ]
   },
@@ -573,137 +684,164 @@
     "list": [{
         "Website": "Pexels",
         "Description": "Free stock photos shared by talented creators",
-        "url": "https://www.pexels.com/"
+        "url": "https://www.pexels.com/",
+        "keywords": []
       },
       {
         "Website": "Unsplash",
         "Description": "The internet’s source of freely usable images",
-        "url": "https://unsplash.com/"
+        "url": "https://unsplash.com/",
+        "keywords": []
       },
       {
         "Website": "Pixabay",
         "Description": "Over 1.7 million+ high quality stock images and videos",
-        "url": "https://pixabay.com/"
+        "url": "https://pixabay.com/",
+        "keywords": []
       },
       {
         "Website": "Magdeleine",
         "Description": "Gallery & free high res photo everyday",
-        "url": "https://magdeleine.co/"
+        "url": "https://magdeleine.co/",
+        "keywords": []
       },
       {
         "Website": "Picspree",
         "Description": "Royalty free images, stock photos, illustrations, and vectors",
-        "url": "https://picspree.com"
+        "url": "https://picspree.com",
+        "keywords": []
       },
       {
         "Website": "Burst",
         "Description": "Free stock photos collections",
-        "url": "https://burst.shopify.com/"
+        "url": "https://burst.shopify.com/",
+        "keywords": []
       },
       {
         "Website": "Gratisography",
         "Description": "Free collection of free high-resolution pictures",
-        "url": "https://gratisography.com/"
+        "url": "https://gratisography.com/",
+        "keywords": []
       },
       {
         "Website": "Life of Pix",
         "Description": "Free high resolution photography",
-        "url": "https://www.lifeofpix.com/"
+        "url": "https://www.lifeofpix.com/",
+        "keywords": []
       },
       {
         "Website": "Stock Snap",
         "Description": "Hundreds of high quality photos added weekly",
-        "url": "https://stocksnap.io/"
+        "url": "https://stocksnap.io/",
+        "keywords": []
       },
       {
         "Website": "Morguefile",
         "Description": "Over 350,000 free stock photos for commercial use",
-        "url": "https://morguefile.com/"
+        "url": "https://morguefile.com/",
+        "keywords": []
       },
       {
         "Website": "Kaboom Pics",
         "Description": "Stock photography and color palettes. Good for product images",
-        "url": "https://kaboompics.com/"
+        "url": "https://kaboompics.com/",
+        "keywords": []
       },
       {
         "Website": "New Old Stock",
         "Description": "Stock vintage photos",
-        "url": "https://nos.twnsnd.co/"
+        "url": "https://nos.twnsnd.co/",
+        "keywords": []
       },
       {
         "Website": "Pic Jumbo",
         "Description": "Good collections of different types of photos",
-        "url": "https://picjumbo.com/"
+        "url": "https://picjumbo.com/",
+        "keywords": []
       },
       {
         "Website": "Public\\n Domain Pictures",
         "Description": "Public domain images of all types",
-        "url": "https://www.publicdomainpictures.net/en/"
+        "url": "https://www.publicdomainpictures.net/en/",
+        "keywords": []
       },
       {
         "Website": "Find A\\n Photo",
         "Description": "Searches multiple stock photo websites",
-        "url": "https://www.chamberofcommerce.org/findaphoto/"
+        "url": "https://www.chamberofcommerce.org/findaphoto/",
+        "keywords": []
       },
       {
         "Website": "Stockvault",
         "Description": "Categorized stock photos",
-        "url": "http://www.stockvault.net/"
+        "url": "http://www.stockvault.net/",
+        "keywords": []
       },
       {
         "Website": "Placeholder",
         "Description": "A free image placeholder service for the web. You can specify image size and format",
-        "url": "https://placeholder.com/"
+        "url": "https://placeholder.com/",
+        "keywords": []
       },
       {
         "Website": "Realistic Shots",
         "Description": "Free high resolution stock photos",
-        "url": "https://realisticshots.com/"
+        "url": "https://realisticshots.com/",
+        "keywords": []
       },
       {
         "Website": "Negative Space",
         "Description": "High-Resolution Free Stock Photos",
-        "url": "https://negativespace.co/"
+        "url": "https://negativespace.co/",
+        "keywords": []
       },
       {
         "Website": "SkitterPhoto",
         "Description": "Free high resolution photography",
-        "url": "https://skitterphoto.com/"
+        "url": "https://skitterphoto.com/",
+        "keywords": []
       },
       {
         "Website": "PicoGraphy",
         "Description": "Gorgeous, High-Resolution, Free Photos",
-        "url": "https://picography.co/"
+        "url": "https://picography.co/",
+        "keywords": []
       },
       {
         "Website": "Wunder Stock",
         "Description": "Stunningly amazing free photos",
-        "url": "https://wunderstock.com/"
+        "url": "https://wunderstock.com/",
+        "keywords": []
       },
       {
         "Website": "PxHere",
         "Description": "Free Images & Free stock photos - PxHere",
-        "url": "https://pxhere.com/"
+        "url": "https://pxhere.com/",
+        "keywords": []
       },
       {
         "Website": "Piqsels",
         "Description": "Royalty Free Stock Photos",
-        "url": "https://piqsels.com/"
+        "url": "https://piqsels.com/",
+        "keywords": []
       },
       {
         "Website": "FoodiesFeed",
         "Description": "Food photo stock",
-        "url": "https://www.foodiesfeed.com/"
+        "url": "https://www.foodiesfeed.com/",
+        "keywords": []
       },
       {
         "Website": "Nappy",
         "Description": "A website offering Beautiful, high-res photos of black and brown people.",
-        "url": "https://www.nappy.co/"
+        "url": "https://www.nappy.co/",
+        "keywords": []
       },
       {
         "Website": "Generated Photos",
         "Description": "Unique AI Generated model photos",
-        "url": "https://generated.photos/"
+        "url": "https://generated.photos/",
+        "keywords": []
       }
     ]
   },
@@ -712,37 +850,44 @@
     "list": [{
         "Website": "Pexels",
         "Description": "Largest library of free to use videos, donated by the community",
-        "url": "https://www.pexels.com/videos"
+        "url": "https://www.pexels.com/videos",
+        "keywords": []
       },
       {
         "Website": "Pixabay",
         "Description": "Large library of free to use videos, donated by the community similar to Pexels",
-        "url": "https://www.pixabay.com/videos"
+        "url": "https://www.pixabay.com/videos",
+        "keywords": []
       },
       {
         "Website": "Coverr.co",
         "Description": "Beautiful free stock video footage",
-        "url": "https://coverr.co/"
+        "url": "https://coverr.co/",
+        "keywords": []
       },
       {
         "Website": "Videezy",
         "Description": "Free HD stock footage & 4K videos",
-        "url": "https://www.videezy.com/"
+        "url": "https://www.videezy.com/",
+        "keywords": []
       },
       {
         "Website": "Mix Kit",
         "Description": "Stock video clips & music",
-        "url": "https://mixkit.co/"
+        "url": "https://mixkit.co/",
+        "keywords": []
       },
       {
         "Website": "Life Of Vids",
         "Description": "Free video clips and loops",
-        "url": "https://www.lifeofvids.com/"
+        "url": "https://www.lifeofvids.com/",
+        "keywords": []
       },
       {
         "Website": "Videvo",
         "Description": "Free and premium stock videos",
-        "url": "https://www.videvo.net/stock-video-footage/"
+        "url": "https://www.videvo.net/stock-video-footage/",
+        "keywords": []
       }
     ]
   },
@@ -751,37 +896,44 @@
     "list": [{
         "Website": "Free Stock\\n Music",
         "Description": "Royalty free stock music for YouTube videos, podcasts, etc",
-        "url": "https://www.free-stock-music.com/"
+        "url": "https://www.free-stock-music.com/",
+        "keywords": []
       },
       {
         "Website": "Bensound",
         "Description": "Download Royalty Free Music for free and use it in your project",
-        "url": "https://www.bensound.com/"
+        "url": "https://www.bensound.com/",
+        "keywords": []
       },
       {
         "Website": "Mixkit",
         "Description": "Free music for your projects",
-        "url": "https://mixkit.co/free-stock-music/"
+        "url": "https://mixkit.co/free-stock-music/",
+        "keywords": []
       },
       {
         "Website": "Freesound",
         "Description": "Free stock music and sounds",
-        "url": "https://freesound.org/"
+        "url": "https://freesound.org/",
+        "keywords": []
       },
       {
         "Website": "Free Music Archive",
         "Description": "Collaborative database of creative-commons licensed sound for musicians and sound lovers",
-        "url": "https://freemusicarchive.org/"
+        "url": "https://freemusicarchive.org/",
+        "keywords": []
       },
       {
         "Website": "Musopen",
         "Description": "An online copyright free classical music library",
-        "url": "https://musopen.org/music/"
+        "url": "https://musopen.org/music/",
+        "keywords": []
       },
       {
         "Website": "Unminus",
         "Description": "Free Premium Music for Your Projects gift Royalty Free. Cleared for YouTube.",
-        "url": "https://www.unminus.com/"
+        "url": "https://www.unminus.com/",
+        "keywords": []
       }
     ]
   },
@@ -790,77 +942,92 @@
     "list": [{
         "Website": "Vecteezy",
         "Description": "Find and download free vector art",
-        "url": "https://www.vecteezy.com/"
+        "url": "https://www.vecteezy.com/",
+        "keywords": []
       },
       {
         "Website": "Freepik",
         "Description": "Free vectors, stock photos, PSD and icons",
-        "url": "https://www.freepik.com"
+        "url": "https://www.freepik.com",
+        "keywords": []
       },
       {
         "Website": "Free Vectors",
         "Description": "Community of vector lovers who share free vector graphics",
-        "url": "https://www.freevectors.net/"
+        "url": "https://www.freevectors.net/",
+        "keywords": []
       },
       {
         "Website": "PNGTree",
         "Description": "png, backgrounds, templates, text effects",
-        "url": "https://pngtree.com/free-vectors"
+        "url": "https://pngtree.com/free-vectors",
+        "keywords": []
       },
       {
         "Website": "Vector4Free",
         "Description": "Free vector graphics",
-        "url": "https://www.vector4free.com/"
+        "url": "https://www.vector4free.com/",
+        "keywords": []
       },
       {
         "Website": "Retro Vectors",
         "Description": "Vintage vectors and graphics",
-        "url": "http://retrovectors.com/"
+        "url": "http://retrovectors.com/",
+        "keywords": []
       },
       {
         "Website": "Freeble",
         "Description": "Vectors, patterns, mockups and more",
-        "url": "http://freebbble.com/"
+        "url": "http://freebbble.com/",
+        "keywords": []
       },
       {
         "Website": "Lukaszadam",
         "Description": "Free Vector atrworks",
-        "url": "https://lukaszadam.com/"
+        "url": "https://lukaszadam.com/",
+        "keywords": []
       },
       {
         "Website": "Illlustrations",
         "Description": "Beautiful 100 Illustrations - png, svg",
-        "url": "https://illlustrations.co/"
+        "url": "https://illlustrations.co/",
+        "keywords": []
       },
       {
         "Website": "Clipart",
         "Description": "Choose great clipart, png, coloring pages, drawings and more for your projects from the free\\n collection!",
-        "url": "https://www.clipart.email/"
+        "url": "https://www.clipart.email/",
+        "keywords": []
       },
       {
         "Website": "Growwwkit\\n illustrations",
         "Description": "A set of 8 simple, black & white, stylish illustrations",
-        "url": "https://growwwkit.com/illustrations/phonies"
+        "url": "https://growwwkit.com/illustrations/phonies",
+        "keywords": []
       },
       {
         "Website": "World Vector Logo",
         "Description": "Download vector logos of brands you love",
-        "url": "https://worldvectorlogo.com/"
+        "url": "https://worldvectorlogo.com/",
+        "keywords": []
       },
       {
         "Website": "trianglify.io",
         "Description": "Generate low-poly backgrounds, textures, and vectors",
-        "url": "https://trianglify.io/"
+        "url": "https://trianglify.io/",
+        "keywords": []
       },
       {
         "Website": "blob",
         "Description": "Generate Blob shapes for Web and Flutter apps",
-        "url": "https://blobs.app/"
+        "url": "https://blobs.app/",
+        "keywords": []
       },
       {
         "Website": "HiClipart",
         "Description": "A community for designers to share & download transparent background PNG cliparts",
-        "url": "https://www.hiclipart.com/"
+        "url": "https://www.hiclipart.com/",
+        "keywords": []
       }
     ]
   },
@@ -869,47 +1036,56 @@
     "list": [{
         "Website": "Smart Mockups",
         "Description": "Create stunning product mockups (free & premium)",
-        "url": "https://smartmockups.com/"
+        "url": "https://smartmockups.com/",
+        "keywords": []
       },
       {
         "Website": "Shot Snap",
         "Description": "Create beautiful device mockup images for your app or website design",
-        "url": "https://shotsnapp.com/"
+        "url": "https://shotsnapp.com/",
+        "keywords": []
       },
       {
         "Website": "Screely",
         "Description": "Instantly turn your screenshot into a mockup",
-        "url": "https://www.screely.com/"
+        "url": "https://www.screely.com/",
+        "keywords": []
       },
       {
         "Website": "Screen Peak",
         "Description": "Create a mockup from a URL",
-        "url": "https://screenpeek.io/"
+        "url": "https://screenpeek.io/",
+        "keywords": []
       },
       {
         "Website": "Mockup World",
         "Description": "The biggest source of free photo-realistic Mockups online",
-        "url": "https://www.mockupworld.co/"
+        "url": "https://www.mockupworld.co/",
+        "keywords": []
       },
       {
         "Website": "Collab Shot",
         "Description": "Real-time screen grabs and image sharing",
-        "url": "https://www.collabshot.com/"
+        "url": "https://www.collabshot.com/",
+        "keywords": []
       },
       {
         "Website": "Facebook Devices",
         "Description": "Images and Sketch files of popular devices",
-        "url": "https://facebook.design/devices"
+        "url": "https://facebook.design/devices",
+        "keywords": []
       },
       {
         "Website": "Threed.io",
         "Description": "Generate 3D mockups right in your browser.",
-        "url": "https://threed.io"
+        "url": "https://threed.io",
+        "keywords": []
       },
       {
         "Website": "Mockuphone",
         "Description": "100% free mockups for all devices including IOS, Android, Windows Phone, Laptop & Desktop\\n and TV",
-        "url": "https://mockuphone.com/"
+        "url": "https://mockuphone.com/",
+        "keywords": []
       }
     ]
   },
@@ -918,107 +1094,128 @@
     "list": [{
         "Website": "HTML5Up",
         "Description": "Very modern, unique responsive HTML5/CSS3 themes",
-        "url": "https://html5up.net/"
+        "url": "https://html5up.net/",
+        "keywords": []
       },
       {
         "Website": "Templatemo",
         "Description": "Minimal, resume, gallery themes and more",
-        "url": "https://templatemo.com/"
+        "url": "https://templatemo.com/",
+        "keywords": []
       },
       {
         "Website": "Templated.co",
         "Description": "Tons of minimalistic HTML5/CSS3 themes",
-        "url": "https://templated.co/"
+        "url": "https://templated.co/",
+        "keywords": []
       },
       {
         "Website": "FreeHTML5",
         "Description": "Free & premium HTML5 and Bootstrap themes",
-        "url": "https://freehtml5.co/"
+        "url": "https://freehtml5.co/",
+        "keywords": []
       },
       {
         "Website": "StyleShout",
         "Description": "Brilliantly crafted free website templates",
-        "url": "https://www.styleshout.com/free-templates/"
+        "url": "https://www.styleshout.com/free-templates/",
+        "keywords": []
       },
       {
         "Website": "Start Bootstrap",
         "Description": "Bootstrap starter themes",
-        "url": "https://startbootstrap.com/"
+        "url": "https://startbootstrap.com/",
+        "keywords": []
       },
       {
         "Website": "Zerotheme",
         "Description": "HTML5, Bootstrap, Prestashop templates",
-        "url": "https://www.zerotheme.com/"
+        "url": "https://www.zerotheme.com/",
+        "keywords": []
       },
       {
         "Website": "HTML5xCSS3",
         "Description": "Collection of wonderful templates in different categories",
-        "url": "https://www.html5xcss3.com/"
+        "url": "https://www.html5xcss3.com/",
+        "keywords": []
       },
       {
         "Website": "Colorlib",
         "Description": "Almost any category of theme you can think of",
-        "url": "https://colorlib.com/wp/templates/"
+        "url": "https://colorlib.com/wp/templates/",
+        "keywords": []
       },
       {
         "Website": "Free\\n CSS",
         "Description": "Huge collection of free templates",
-        "url": "https://www.free-css.com/free-css-templates"
+        "url": "https://www.free-css.com/free-css-templates",
+        "keywords": []
       },
       {
         "Website": "Hubspot",
         "Description": "Templates, infographics, banners and much more",
-        "url": "https://www.hubspot.com/resources"
+        "url": "https://www.hubspot.com/resources",
+        "keywords": []
       },
       {
         "Website": "Mobirise",
         "Description": "Great looking HTML5/CSS3 templates",
-        "url": "https://mobirise.com/html-templates/"
+        "url": "https://mobirise.com/html-templates/",
+        "keywords": []
       },
       {
         "Website": "Bootswatch",
         "Description": "Free themes for Bootstrap",
-        "url": "https://bootswatch.com/"
+        "url": "https://bootswatch.com/",
+        "keywords": []
       },
       {
         "Website": "Onepagelove",
         "Description": "One page websites, templates and resources",
-        "url": "https://onepagelove.com/"
+        "url": "https://onepagelove.com/",
+        "keywords": []
       },
       {
         "Website": "Themes For App",
         "Description": "Free Bootstrap themes and landing pages",
-        "url": "https://themesfor.app/"
+        "url": "https://themesfor.app/",
+        "keywords": []
       },
       {
         "Website": "BootstrapTaste",
         "Description": "Premium & Free Bootstrap Templates",
-        "url": "https://bootstraptaste.com/"
+        "url": "https://bootstraptaste.com/",
+        "keywords": []
       },
       {
         "Website": "BootstrapMade",
         "Description": "Elegant, clean and beautiful free templates using Bootstrap.",
-        "url": "https://bootstrapmade.com/"
+        "url": "https://bootstrapmade.com/",
+        "keywords": []
       },
       {
         "Website": "W3Layouts",
         "Description": "W3Layouts: 3784+ Free Website Templates for 2020",
-        "url": "https://w3layouts.com/"
+        "url": "https://w3layouts.com/",
+        "keywords": []
       },
       {
         "Website": "Tooplate",
         "Description": "Tooplate: Free HTML Templates for everyone!",
-        "url": "https://www.tooplate.com/"
+        "url": "https://www.tooplate.com/",
+        "keywords": []
       },
       {
         "Website": "Cruip",
         "Description": "Fully coded HTML templates to help you easily build your startup landing page without hassles.",
-        "url": "https://cruip.com/free-templates/"
+        "url": "https://cruip.com/free-templates/",
+        "keywords": []
       },
       {
         "Website": "Shade",
         "Description": "Get High Converting Landing Pages For Free!",
-        "url": "https://grayic.com/shade/"
+        "url": "https://grayic.com/shade/",
+        "keywords": []
       }
     ]
   },
@@ -1027,152 +1224,182 @@
     "list": [{
         "Website": "Tailwind CSS",
         "Description": "Low level, utility-first framework",
-        "url": "https://tailwindcss.com/"
+        "url": "https://tailwindcss.com/",
+        "keywords": []
       },
       {
         "Website": "Bootstrap",
         "Description": "Popular UI framework with tons of components that use both CSS and JS",
-        "url": "https://getbootstrap.com/"
+        "url": "https://getbootstrap.com/",
+        "keywords": []
       },
       {
         "Website": "Materialize",
         "Description": "A modern responsive front-end framework based on Material Design",
-        "url": "https://materializecss.com/"
+        "url": "https://materializecss.com/",
+        "keywords": []
       },
       {
         "Website": "Material Design Lite",
         "Description": "Light framework based on Material Design. No JS dependency",
-        "url": "https://getmdl.io/"
+        "url": "https://getmdl.io/",
+        "keywords": []
       },
       {
         "Website": "Bulma",
         "Description": "Modern CSS framework with no JS",
-        "url": "https://bulma.io/"
+        "url": "https://bulma.io/",
+        "keywords": []
       },
       {
         "Website": "Skeleton",
         "Description": "Extremely light framework for basic UI elements",
-        "url": "http://getskeleton.com/"
+        "url": "http://getskeleton.com/",
+        "keywords": []
       },
       {
         "Website": "Semantic UI",
         "Description": "Empowers designers and developers by creating a shared vocabulary for UI",
-        "url": "https://semantic-ui.com/"
+        "url": "https://semantic-ui.com/",
+        "keywords": []
       },
       {
         "Website": "Fomantic UI",
         "Description": "A community fork of Semantic-UI",
-        "url": "https://fomantic-ui.com/"
+        "url": "https://fomantic-ui.com/",
+        "keywords": []
       },
       {
         "Website": "Foundation",
         "Description": "Mobile first framework with clean markup",
-        "url": "https://get.foundation/"
+        "url": "https://get.foundation/",
+        "keywords": []
       },
       {
         "Website": "Pure CSS",
         "Description": "A set of small, responsive CSS modules",
-        "url": "https://purecss.io/"
+        "url": "https://purecss.io/",
+        "keywords": []
       },
       {
         "Website": "UIKit",
         "Description": "Lightweight and modular front-end framework",
-        "url": "https://getuikit.com/"
+        "url": "https://getuikit.com/",
+        "keywords": []
       },
       {
         "Website": "Susy",
         "Description": "Lightweight, grid-layout engine for Sass",
-        "url": "https://www.oddbird.net/susy/"
+        "url": "https://www.oddbird.net/susy/",
+        "keywords": []
       },
       {
         "Website": "Milligram.io",
         "Description": "Minimalist CSS framework",
-        "url": "https://milligram.io/"
+        "url": "https://milligram.io/",
+        "keywords": []
       },
       {
         "Website": "Vanilla Framework",
         "Description": "Simple, extensible CSS framework written in Sass",
-        "url": "https://vanillaframework.io/"
+        "url": "https://vanillaframework.io/",
+        "keywords": []
       },
       {
         "Website": "Spectre\\n CSS",
         "Description": "Lightweight, modern CSS framework",
-        "url": "https://picturepan2.github.io/spectre/"
+        "url": "https://picturepan2.github.io/spectre/",
+        "keywords": []
       },
       {
         "Website": "Picnic CSS",
         "Description": "Lightweight and beautiful library",
-        "url": "https://picnicss.com/"
+        "url": "https://picnicss.com/",
+        "keywords": []
       },
       {
         "Website": "Wing",
         "Description": "A beautiful CSS framework designed for minimalists",
-        "url": "https://kbrsh.github.io/wing/"
+        "url": "https://kbrsh.github.io/wing/",
+        "keywords": []
       },
       {
         "Website": "Chota",
         "Description": "A micro (~3kb) CSS framework",
-        "url": "https://jenil.github.io/chota/"
+        "url": "https://jenil.github.io/chota/",
+        "keywords": []
       },
       {
         "Website": "Blueprint CSS",
         "Description": "A lightweight layout library for building great responsive mobile first UIs that work\\n everywhere",
-        "url": "https://blueprintcss.dev/"
+        "url": "https://blueprintcss.dev/",
+        "keywords": []
       },
       {
         "Website": "W3.CSS",
         "Description": "A modern CSS framework with support for desktop, tablet, and mobile design by default.\\n Designed to be independent of jQuery or any other JavaScript library",
-        "url": "https://www.w3schools.com/w3css/"
+        "url": "https://www.w3schools.com/w3css/",
+        "keywords": []
       },
       {
         "Website": "98.css",
         "Description": "A design system for building faithful recreations of old UIs",
-        "url": "https://jdan.github.io/98.css/"
+        "url": "https://jdan.github.io/98.css/",
+        "keywords": []
       },
       {
         "Website": "NES CSS",
         "Description": "NES-style CSS Framework",
-        "url": "https://nostalgic-css.github.io/NES.css/"
+        "url": "https://nostalgic-css.github.io/NES.css/",
+        "keywords": []
       },
       {
         "Website": "Shoelace.css",
         "Description": "Lightweight, forward-thinking CSS library built with future CSS syntax",
-        "url": "https://www.shoelace.style/"
+        "url": "https://www.shoelace.style/",
+        "keywords": []
       },
       {
         "Website": "MVP.css",
         "Description": "A minimalist stylesheet for HTML elements. No class names, no frameworks, just semantic HTML\\n and you're done",
-        "url": "https://andybrewer.github.io/mvp/"
+        "url": "https://andybrewer.github.io/mvp/",
+        "keywords": []
       },
       {
         "Website": "Blaze.css",
         "Description": "Open source modular CSS toolkit providing great structure for building websites quickly",
-        "url": "http://blazecss.com/"
+        "url": "http://blazecss.com/",
+        "keywords": []
       },
       {
         "Website": "Turret CSS",
         "Description": "Turret CSS is a styles framework for development of responsive websites.",
-        "url": "https://turretcss.com/"
+        "url": "https://turretcss.com/",
+        "keywords": []
       },
       {
         "Website": "Cutestrap",
         "Description": "A strong, independent CSS Framework.",
-        "url": "https://www.cutestrap.com/"
+        "url": "https://www.cutestrap.com/",
+        "keywords": []
       },
       {
         "Website": "Shorthand",
         "Description": "Shorthand is a free and open source css framework, that allows you to make unique and modern\\n design without writing any css",
-        "url": "https://shorthandcss.com/"
+        "url": "https://shorthandcss.com/",
+        "keywords": []
       },
       {
         "Website": "XP.css",
         "Description": "XP.css is an extention of 98.css. A CSS library for building interfaces that look like old\\n UIs.",
-        "url": "https://botoxparty.github.io/XP.css/"
+        "url": "https://botoxparty.github.io/XP.css/",
+        "keywords": []
       },
       {
         "Website": "Framework7",
         "Description": "Framework7 - is a free and open source framework to develop mobile, desktop or web apps with\\n native look and feel.",
-        "url": "https://framework7.io/"
+        "url": "https://framework7.io/",
+        "keywords": []
       }
     ]
   },
@@ -1181,72 +1408,86 @@
     "list": [{
         "Website": "Animate.css",
         "Description": "Just-add-water CSS animations",
-        "url": "https://animate.style/"
+        "url": "https://animate.style/",
+        "keywords": []
       },
       {
         "Website": "Bounce.js",
         "Description": "Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations",
-        "url": "http://bouncejs.com/"
+        "url": "http://bouncejs.com/",
+        "keywords": []
       },
       {
         "Website": "Anime.js",
         "Description": "Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet\\n powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects",
-        "url": "https://animejs.com/"
+        "url": "https://animejs.com/",
+        "keywords": []
       },
       {
         "Website": "Magic\\n Animations",
         "Description": "Animations has been one of the most impressive animation libraries available",
-        "url": "https://www.minimamente.com/project/magic/"
+        "url": "https://www.minimamente.com/project/magic/",
+        "keywords": []
       },
       {
         "Website": "Zdog",
         "Description": "Round, flat, designer-friendly pseudo-3D engine for canvas & SVG",
-        "url": "https://zzz.dog/"
+        "url": "https://zzz.dog/",
+        "keywords": []
       },
       {
         "Website": "CSShake",
         "Description": "CSShake delivers exactly what it says on the box — a CSS library designed specifically for\\n shaking elements within your web page",
-        "url": "http://elrumordelaluz.github.io/csshake/"
+        "url": "http://elrumordelaluz.github.io/csshake/",
+        "keywords": []
       },
       {
         "Website": "Hover.css",
         "Description": "Hover.css is a CSS animation library designed for use with buttons and other UI elements in\\n your website",
-        "url": "http://ianlunn.github.io/Hover/"
+        "url": "http://ianlunn.github.io/Hover/",
+        "keywords": []
       },
       {
         "Website": "AniJS",
         "Description": "AniJS is an animation library that allows you to add animations to elements in a simple\\n ‘sentence-like’ structure",
-        "url": "http://anijs.github.io/"
+        "url": "http://anijs.github.io/",
+        "keywords": []
       },
       {
         "Website": "Animista",
         "Description": "CSS Animations On Demand",
-        "url": "http://animista.net/"
+        "url": "http://animista.net/",
+        "keywords": []
       },
       {
         "Website": "Tachyons-animate",
         "Description": "Tachyons itself is an atomic CSS library with a ton of utility classes for essentially\\n designing anything by adding classes to what you need",
-        "url": "https://github.com/anater/tachyons-animate"
+        "url": "https://github.com/anater/tachyons-animate",
+        "keywords": []
       },
       {
         "Website": "Sequence.js",
         "Description": "Sequence.js is a JavaScript library that provides a responsive CSS framework for creating\\n unique sliders, presentations, banners, and other step-based applications",
-        "url": "https://www.sequencejs.com/"
+        "url": "https://www.sequencejs.com/",
+        "keywords": []
       },
       {
         "Website": "Infinite",
         "Description": "These animations, like rotations and pulses, that are specifically designed to run and repeat\\n forever",
-        "url": "https://tilomitra.github.io/infinite/"
+        "url": "https://tilomitra.github.io/infinite/",
+        "keywords": []
       },
       {
         "Website": "OBNOXIOUS.CSS",
         "Description": "Animations for the strong of heart, and weak of mind",
-        "url": "http://tholman.com/obnoxious/"
+        "url": "http://tholman.com/obnoxious/",
+        "keywords": []
       },
       {
         "Website": "MOTION UI",
         "Description": "A Sass library for creating flexible CSS transitions and animations",
-        "url": "https://zurb.com/playground/motion-ui"
+        "url": "https://zurb.com/playground/motion-ui",
+        "keywords": []
       }
     ]
   },
@@ -1255,47 +1496,56 @@
     "list": [{
         "Website": "Greensock",
         "Description": "A JavaScript library for building high-performance animations that work in every major browser",
-        "url": "https://greensock.com/"
+        "url": "https://greensock.com/",
+        "keywords": []
       },
       {
         "Website": "Velocity.js",
         "Description": "Velocity is an lightweight animation engine with the same API as jQuery's $.animate()",
-        "url": "http://velocityjs.org/"
+        "url": "http://velocityjs.org/",
+        "keywords": []
       },
       {
         "Website": "lax.js",
         "Description": "Simple & light weight vanilla javascript plugin to create smooth & beautiful\\n animations when you scroll!",
-        "url": "https://github.com/alexfoxy/laxxx"
+        "url": "https://github.com/alexfoxy/laxxx",
+        "keywords": []
       },
       {
         "Website": "Rellax.js",
         "Description": "A buttery smooth, super lightweight, vanilla javascript parallax library",
-        "url": "https://github.com/dixonandmoe/rellax"
+        "url": "https://github.com/dixonandmoe/rellax",
+        "keywords": []
       },
       {
         "Website": "three.js",
         "Description": "An easy to use, lightweight, 3D library with a default WebGL renderer.",
-        "url": "https://github.com/mrdoob/three.js/"
+        "url": "https://github.com/mrdoob/three.js/",
+        "keywords": []
       },
       {
         "Website": "wow.js",
         "Description": "Reveal Animations When You Scroll.",
-        "url": "https://wowjs.uk/"
+        "url": "https://wowjs.uk/",
+        "keywords": []
       },
       {
         "Website": "chocolat.js",
         "Description": "Free lightbox plugin.",
-        "url": "http://chocolat.insipi.de/"
+        "url": "http://chocolat.insipi.de/",
+        "keywords": []
       },
       {
         "Website": "Animate On\\n Scroll",
         "Description": "Animate on scroll library to reveal animations when You scroll.",
-        "url": "https://michalsnik.github.io/aos/"
+        "url": "https://michalsnik.github.io/aos/",
+        "keywords": []
       },
       {
         "Website": "Tilt.Js",
         "Description": "A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery.",
-        "url": "http://gijsroge.github.io/tilt.js/"
+        "url": "http://gijsroge.github.io/tilt.js/",
+        "keywords": []
       }
     ]
   },
@@ -1304,117 +1554,140 @@
     "list": [{
         "Website": "TagFold",
         "Description": "Useful Bootstrap 4, HTML5, CSS3 Code Snippets to Build Web Layouts",
-        "url": "https://tagfold.com/"
+        "url": "https://tagfold.com/",
+        "keywords": []
       },
       {
         "Website": "UILang",
         "Description": "A minimal, ui-focused programming language for web designers",
-        "url": "http://uilang.com/"
+        "url": "http://uilang.com/",
+        "keywords": []
       },
       {
         "Website": "Medialoot CSS\\n Components",
         "Description": "Calendars, price grids and other UI components",
-        "url": "https://medialoot.com/free-themes/css-components/"
+        "url": "https://medialoot.com/free-themes/css-components/",
+        "keywords": []
       },
       {
         "Website": "Froala Design\\n Blocks",
         "Description": "Over 170 responsive design blocks ready to be used in your web or mobile apps",
-        "url": "https://froala.com/design-blocks"
+        "url": "https://froala.com/design-blocks",
+        "keywords": []
       },
       {
         "Website": "Material\\n Design For Bootstrap",
         "Description": "Open source toolkit for building material design with Bootstrap",
-        "url": "https://fezvrasta.github.io/bootstrap-material-design/"
+        "url": "https://fezvrasta.github.io/bootstrap-material-design/",
+        "keywords": []
       },
       {
         "Website": "Photonkit",
         "Description": "Desktop UI library for Electron",
-        "url": "http://photonkit.com/"
+        "url": "http://photonkit.com/",
+        "keywords": []
       },
       {
         "Website": "Flat UI",
         "Description": "Minimal free user interface kit",
-        "url": "https://designmodo.github.io/Flat-UI/"
+        "url": "https://designmodo.github.io/Flat-UI/",
+        "keywords": []
       },
       {
         "Website": "Shards",
         "Description": "A free and modern UI toolkit for web makers based on Bootstrap",
-        "url": "https://designrevision.com/downloads/shards/"
+        "url": "https://designrevision.com/downloads/shards/",
+        "keywords": []
       },
       {
         "Website": "Creative Tim",
         "Description": "All types of UI libraries and kits including JS frameworks like React",
-        "url": "https://www.creative-tim.com/"
+        "url": "https://www.creative-tim.com/",
+        "keywords": []
       },
       {
         "Website": "Brumm Shadow Maker",
         "Description": "An online tool to make css shadows",
-        "url": "https://brumm.af/shadows"
+        "url": "https://brumm.af/shadows",
+        "keywords": []
       },
       {
         "Website": "AdminLTE",
         "Description": "Best open source admin dashboard & control panel theme",
-        "url": "https://adminlte.io/"
+        "url": "https://adminlte.io/",
+        "keywords": []
       },
       {
         "Website": "SpinKit",
         "Description": "Simple CSS Spinners",
-        "url": "https://tobiasahlin.com/spinkit/"
+        "url": "https://tobiasahlin.com/spinkit/",
+        "keywords": []
       },
       {
         "Website": "Epic Spinners",
         "Description": "CSS spinners collection with Vue.js integration.",
-        "url": "https://epic-spinners.epicmax.co/"
+        "url": "https://epic-spinners.epicmax.co/",
+        "keywords": []
       },
       {
         "Website": "Loading.io",
         "Description": "Online service provider for creating simple animations, spinners, progress bar and more",
-        "url": "https://loading.io/"
+        "url": "https://loading.io/",
+        "keywords": []
       },
       {
         "Website": "Moving\\n Letters",
         "Description": "Animated Text with JavaScript and anime.js",
-        "url": "https://tobiasahlin.com/moving-letters/"
+        "url": "https://tobiasahlin.com/moving-letters/",
+        "keywords": []
       },
       {
         "Website": "CSS Layout",
         "Description": "A collection of popular web layouts and patterns in pure CSS",
-        "url": "https://csslayout.io/"
+        "url": "https://csslayout.io/",
+        "keywords": []
       },
       {
         "Website": "Codyhouse",
         "Description": "Kick-start your web projects with CodyHouse's front-end framework and library of accessible\\n HTML, CSS, JavaScript components",
-        "url": "https://codyhouse.co/"
+        "url": "https://codyhouse.co/",
+        "keywords": []
       },
       {
         "Website": "Tailwind Starter Kit",
         "Description": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source",
-        "url": "https://github.com/creativetimofficial/tailwind-starter-kit"
+        "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
+        "keywords": []
       },
       {
         "Website": "Tailwindtoolbox",
         "Description": "Open source starter templates and components, a plugins directory and useful tools/utilities\\n to kick start your Tailwind CSS project.",
-        "url": "https://www.tailwindtoolbox.com/"
+        "url": "https://www.tailwindtoolbox.com/",
+        "keywords": []
       },
       {
         "Website": "tailwindcomponents",
         "Description": "A free repository for community components using TailwindCSS",
-        "url": "https://tailwindcomponents.com/"
+        "url": "https://tailwindcomponents.com/",
+        "keywords": []
       },
       {
         "Website": "sweetalert",
         "Description": "SweetAlert makes popup messages easy and pretty.",
-        "url": "https://sweetalert.js.org/"
+        "url": "https://sweetalert.js.org/",
+        "keywords": []
       },
       {
         "Website": "sweetalert2",
         "Description": "A beautiful,responsive,customizable,accessible replacement for javascript's popup boxes",
-        "url": "https://sweetalert2.github.io/"
+        "url": "https://sweetalert2.github.io/",
+        "keywords": []
       },
       {
         "Website": "tailblocks",
         "Description": "Open source ready-to-use Tailwind CSS components.",
-        "url": "https://mertjf.github.io/tailblocks/"
+        "url": "https://mertjf.github.io/tailblocks/",
+        "keywords": []
       }
     ]
   },
@@ -1423,157 +1696,188 @@
     "list": [{
         "Website": "Material Design",
         "Description": "Google's Material Design",
-        "url": "https://material.io/"
+        "url": "https://material.io/",
+        "keywords": []
       },
       {
         "Website": "Ant Design",
         "Description": "Design system for enterprise-level products",
-        "url": "https://ant.design/"
+        "url": "https://ant.design/",
+        "keywords": []
       },
       {
         "Website": "Apple\\n Design\\n Resources",
         "Description": "Guides and templates for using Apple design and UI",
-        "url": "https://developer.apple.com/design/resources/"
+        "url": "https://developer.apple.com/design/resources/",
+        "keywords": []
       },
       {
         "Website": "Primer",
         "Description": "Design, build, and create with GitHub’s design system",
-        "url": "https://primer.style/"
+        "url": "https://primer.style/",
+        "keywords": []
       },
       {
         "Website": "Alta\\n UI",
         "Description": "Oracle's design system and toolkit",
-        "url": "https://www.oracle.com/webfolder/ux/middleware/alta/index.html"
+        "url": "https://www.oracle.com/webfolder/ux/middleware/alta/index.html",
+        "keywords": []
       },
       {
         "Website": "Pulse",
         "Description": "Design system, guides and React component library",
-        "url": "https://pulse.heartbeat.ua/"
+        "url": "https://pulse.heartbeat.ua/",
+        "keywords": []
       },
       {
         "Website": "Bolt",
         "Description": "Robust Twig and web component powered UI components",
-        "url": "https://boltdesignsystem.com/"
+        "url": "https://boltdesignsystem.com/",
+        "keywords": []
       },
       {
         "Website": "Clarity Design System",
         "Description": "UX guidelines, HTML/CSS framework, and Angular components",
-        "url": "https://clarity.design/"
+        "url": "https://clarity.design/",
+        "keywords": []
       },
       {
         "Website": "AtlasKit",
         "Description": "Atlassian's official UI library, built according to the Atlassian Design Guidelines",
-        "url": "https://atlaskit.atlassian.com/"
+        "url": "https://atlaskit.atlassian.com/",
+        "keywords": []
       },
       {
         "Website": "Audi Design Resources",
         "Description": "Audi UI design system and toolkit",
-        "url": "https://www.audi.com/ci/en/guides/user-interface/introduction.html"
+        "url": "https://www.audi.com/ci/en/guides/user-interface/introduction.html",
+        "keywords": []
       },
       {
         "Website": "Carbon Design\\n Systems",
         "Description": "Carbon is IBM’s open-source design system for products and experiences",
-        "url": "https://www.carbondesignsystem.com/"
+        "url": "https://www.carbondesignsystem.com/",
+        "keywords": []
       },
       {
         "Website": "Yelp Style Guide",
         "Description": "Yelp style guide, components and toolkit",
-        "url": "https://www.yelp.com/styleguide"
+        "url": "https://www.yelp.com/styleguide",
+        "keywords": []
       },
       {
         "Website": "Comet",
         "Description": "Scalable design system of visual language, components, and design assets",
-        "url": "https://comet.discoveryeducation.com/"
+        "url": "https://comet.discoveryeducation.com/",
+        "keywords": []
       },
       {
         "Website": "ETrade Design System",
         "Description": "Guides and toolkits that blend finance with simplicity and ease of use",
-        "url": "https://etrade.design/"
+        "url": "https://etrade.design/",
+        "keywords": []
       },
       {
         "Website": "Fundamental\\n Library",
         "Description": "Open source and community driven project for consistent user interfaces",
-        "url": "https://sap.github.io/fundamental-styles/"
+        "url": "https://sap.github.io/fundamental-styles/",
+        "keywords": []
       },
       {
         "Website": "Infor Design",
         "Description": "Guidelines and resources to create meaningful experiences for Infor’s products",
-        "url": "https://design.infor.com/"
+        "url": "https://design.infor.com/",
+        "keywords": []
       },
       {
         "Website": "Lexicon",
         "Description": "An experience language for crafting beautiful UI",
-        "url": "https://liferay.design/lexicon/"
+        "url": "https://liferay.design/lexicon/",
+        "keywords": []
       },
       {
         "Website": "Mailchimp\\n UI/UX",
         "Description": "Style guide and components from Mailchimp",
-        "url": "https://ux.mailchimp.com/patterns/color"
+        "url": "https://ux.mailchimp.com/patterns/color",
+        "keywords": []
       },
       {
         "Website": "Marvel Style\\n Guide",
         "Description": "Set of design principles and components",
-        "url": "https://marvelapp.com/styleguide/overview/introduction"
+        "url": "https://marvelapp.com/styleguide/overview/introduction",
+        "keywords": []
       },
       {
         "Website": "Microsoft Fluent\\n UI",
         "Description": "Collection of UX frameworks from Microsoft",
-        "url": "https://developer.microsoft.com/en-us/fluentui#/"
+        "url": "https://developer.microsoft.com/en-us/fluentui#/",
+        "keywords": []
       },
       {
         "Website": "Pluralsight\\n Design System",
         "Description": "Design guide with components for designing with Pluralsight",
-        "url": "https://design-system.pluralsight.com/"
+        "url": "https://design-system.pluralsight.com/",
+        "keywords": []
       },
       {
         "Website": "Polaris",
         "Description": "Design system that creates great experiences for all of Shopify’s merchants",
-        "url": "https://polaris.shopify.com/"
+        "url": "https://polaris.shopify.com/",
+        "keywords": []
       },
       {
         "Website": "Mozilla Protocol",
         "Description": "Protocol is a design system for Mozilla and Firefox websites",
-        "url": "https://protocol.mozilla.org/"
+        "url": "https://protocol.mozilla.org/",
+        "keywords": []
       },
       {
         "Website": "SendGrid Style\\n Guide",
         "Description": "UI library for developing consistent UI/UX at SendGrid",
-        "url": "http://styleguide.sendgrid.com/"
+        "url": "http://styleguide.sendgrid.com/",
+        "keywords": []
       },
       {
         "Website": "VTEX Styleguide",
         "Description": "Reusable patterns, components and assets related to product design in VTEX",
-        "url": "https://styleguide.vtex.com/"
+        "url": "https://styleguide.vtex.com/",
+        "keywords": []
       },
       {
         "Website": "Rizzo",
         "Description": "Style guide with UI components, JS components, widgets, etc",
-        "url": "https://rizzo.lonelyplanet.com/styleguide/design-elements"
+        "url": "https://rizzo.lonelyplanet.com/styleguide/design-elements",
+        "keywords": []
       },
       {
         "Website": "Atomize",
         "Description": "UI framework that helps developers collaborate with designers and build consistent user\\n interfaces effortlessly",
-        "url": "https://atomizecode.com/"
+        "url": "https://atomizecode.com/",
+        "keywords": []
       },
       {
         "Website": "StyleGuides.io",
         "Description": "A directory of 500+ styleguides",
-        "url": "http://styleguides.io/"
+        "url": "http://styleguides.io/",
+        "keywords": []
       },
       {
         "Website": "Done\\n Design\\n System",
         "Description": "Open source design system, guides & components",
-        "url": "https://uilibrary.github.io/done-design-system/"
+        "url": "https://uilibrary.github.io/done-design-system/",
+        "keywords": []
       },
       {
         "Website": "Skoda Brand\\n System",
         "Description": "Design guideline for developing applications under the Skoda brand",
-        "url": "https://skoda-brand.com/explore-our-brand"
+        "url": "https://skoda-brand.com/explore-our-brand",
+        "keywords": []
       },
       {
         "Website": "Spectrum",
         "Description": "Adobe’s design system that provides components and tools to help product teams work more\\n efficiently, and to make Adobe’s applications more cohesive.",
-        "url": "https://spectrum.adobe.com/"
+        "url": "https://spectrum.adobe.com/",
+        "keywords": []
       }
     ]
   },
@@ -1582,217 +1886,260 @@
     "list": [{
         "Website": "Figma",
         "Description": "Online graphic design tool (Free & paid options)",
-        "url": "https://www.figma.com/graphic-design-tool/"
+        "url": "https://www.figma.com/graphic-design-tool/",
+        "keywords": []
       },
       {
         "Website": "Vectr",
         "Description": "Free vector graphics software",
-        "url": "https://vectr.com/"
+        "url": "https://vectr.com/",
+        "keywords": []
       },
       {
         "Website": "Canva",
         "Description": "Create beautiful designs (Free & Paid)",
-        "url": "https://www.canva.com/"
+        "url": "https://www.canva.com/",
+        "keywords": []
       },
       {
         "Website": "Get Waves",
         "Description": "A free SVG wave generator to make unique SVG waves for web design",
-        "url": "https://getwaves.io/"
+        "url": "https://getwaves.io/",
+        "keywords": []
       },
       {
         "Website": "Clippy",
         "Description": "Easy CSS clip-path maker",
-        "url": "https://bennettfeely.com/clippy/"
+        "url": "https://bennettfeely.com/clippy/",
+        "keywords": []
       },
       {
         "Website": "Fancy Border Radius",
         "Description": "Eight values specifying border-radius in CSS ( border-radius generator )",
-        "url": "https://9elements.github.io/fancy-border-radius/full-control.html"
+        "url": "https://9elements.github.io/fancy-border-radius/full-control.html",
+        "keywords": []
       },
       {
         "Website": "Wireframe.cc",
         "Description": "Wireframing tool (free & paid)",
-        "url": "https://wireframe.cc/"
+        "url": "https://wireframe.cc/",
+        "keywords": []
       },
       {
         "Website": "Fotor",
         "Description": "Photo editor and design maker",
-        "url": "https://www.fotor.com/"
+        "url": "https://www.fotor.com/",
+        "keywords": []
       },
       {
         "Website": "Pixlr",
         "Description": "Online photo editor",
-        "url": "https://www.pixlr.com/"
+        "url": "https://www.pixlr.com/",
+        "keywords": []
       },
       {
         "Website": "Animoto\\n Video Maker",
         "Description": "Make videos online",
-        "url": "https://animoto.com/apps/online-video-maker"
+        "url": "https://animoto.com/apps/online-video-maker",
+        "keywords": []
       },
       {
         "Website": "RemoveBG",
         "Description": "Remove image backgrounds",
-        "url": "https://www.remove.bg/"
+        "url": "https://www.remove.bg/",
+        "keywords": []
       },
       {
         "Website": "Photo Creator",
         "Description": "Create your own photos instead of searching for stock",
-        "url": "https://photos.icons8.com/creator"
+        "url": "https://photos.icons8.com/creator",
+        "keywords": []
       },
       {
         "Website": "Visme",
         "Description": "Create presentations, infographics and more",
-        "url": "https://www.visme.co/"
+        "url": "https://www.visme.co/",
+        "keywords": []
       },
       {
         "Website": "Infogram",
         "Description": "Create infograms",
-        "url": "https://infogram.com/"
+        "url": "https://infogram.com/",
+        "keywords": []
       },
       {
         "Website": "ChartGo",
         "Description": "Create charts and graphs online",
-        "url": "https://www.chartgo.com/"
+        "url": "https://www.chartgo.com/",
+        "keywords": []
       },
       {
         "Website": "Cartoon Photo",
         "Description": "Turn photos into cartoons",
-        "url": "https://cartoon.pho.to/"
+        "url": "https://cartoon.pho.to/",
+        "keywords": []
       },
       {
         "Website": "Logo Maker",
         "Description": "Create custom logos",
-        "url": "https://logomakr.com/"
+        "url": "https://logomakr.com/",
+        "keywords": []
       },
       {
         "Website": "Whimsical",
         "Description": "Wireframes, diagrams and more (4 free)",
-        "url": "https://whimsical.com/"
+        "url": "https://whimsical.com/",
+        "keywords": []
       },
       {
         "Website": "Whiteboard",
         "Description": "Online drawing tool",
-        "url": "https://witeboard.com/"
+        "url": "https://witeboard.com/",
+        "keywords": []
       },
       {
         "Website": "Octopus",
         "Description": "Sitemap builder",
-        "url": "https://octopus.do/"
+        "url": "https://octopus.do/",
+        "keywords": []
       },
       {
         "Website": "CTA\\n Button Maker",
         "Description": "Create call to action buttons",
-        "url": "https://www.clickminded.com/button-generator/"
+        "url": "https://www.clickminded.com/button-generator/",
+        "keywords": []
       },
       {
         "Website": "Blobmaker",
         "Description": "Blobmaker is a free generative design tool, to help you quickly create random, unique, and\\n organic-looking SVG shapes",
-        "url": "https://www.blobmaker.app/"
+        "url": "https://www.blobmaker.app/",
+        "keywords": []
       },
       {
         "Website": "Personas",
         "Description": "A playful avatar generator for the modern age",
-        "url": "https://personas.draftbit.com/"
+        "url": "https://personas.draftbit.com/",
+        "keywords": []
       },
       {
         "Website": "SoftUI",
         "Description": "A Soft UI (neumorphism) CSS generator",
-        "url": "https://www.softui.io"
+        "url": "https://www.softui.io",
+        "keywords": []
       },
       {
         "Website": "Photopea",
         "Description": "A Online Photoshop editor",
-        "url": "https://www.photopea.com"
+        "url": "https://www.photopea.com",
+        "keywords": []
       },
       {
         "Website": "Excalidraw",
         "Description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-        "url": "https://excalidraw.com/"
+        "url": "https://excalidraw.com/",
+        "keywords": []
       },
       {
         "Website": "Diagrams",
         "Description": "Diagram software and Flowchart maker",
-        "url": "https://www.diagrams.net/"
+        "url": "https://www.diagrams.net/",
+        "keywords": []
       },
       {
         "Website": "MapInSeconds",
         "Description": "Simple way to visualize your data with a map",
-        "url": "http://mapinseconds.com/"
+        "url": "http://mapinseconds.com/",
+        "keywords": []
       },
       {
         "Website": "Grid Malven",
         "Description": "A css grid cheatsheet to reference when creating a css grid",
-        "url": "http://grid.malven.co/"
+        "url": "http://grid.malven.co/",
+        "keywords": []
       },
       {
         "Website": "Flex Malven",
         "Description": "A flexbox grid cheatsheet to reference when working with flexbox",
-        "url": "http://flexbox.malven.co/"
+        "url": "http://flexbox.malven.co/",
+        "keywords": []
       },
       {
         "Website": "Smart Upscaler",
         "Description": "Upscale images by 2-4x resolution",
-        "url": "https://icons8.com/upscaler"
+        "url": "https://icons8.com/upscaler",
+        "keywords": []
       },
       {
         "Website": "GetAvataaars",
         "Description": "Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch\\n library",
-        "url": "https://getavataaars.com/"
+        "url": "https://getavataaars.com/",
+        "keywords": []
       },
       {
         "Website": "Webflow",
         "Description": "Break the code barrier, Build better business websites, faster. Without coding.",
-        "url": "https://webflow.com/"
+        "url": "https://webflow.com/",
+        "keywords": []
       },
       {
         "Website": "Trace",
         "Description": "Instantly remove the background from your photos",
-        "url": "https://stickermule.com/trace"
+        "url": "https://stickermule.com/trace",
+        "keywords": []
       },
       {
         "Website": "Neumorphism.io",
         "Description": "Generate Soft-UI CSS shadow code",
-        "url": "https://neumorphism.io/#55b9f3"
+        "url": "https://neumorphism.io/#55b9f3",
+        "keywords": []
       },
       {
         "Website": "DB Designer",
         "Description": "Design your database for free online",
-        "url": "https://app.dbdesigner.net/"
+        "url": "https://app.dbdesigner.net/",
+        "keywords": []
       },
       {
         "Website": "Ui Bakery",
         "Description": "Create full-fledged web apps visually",
-        "url": "https://uibakery.io/"
+        "url": "https://uibakery.io/",
+        "keywords": []
       },
       {
         "Website": "Faux",
         "Description": "Turn real code into faux code",
-        "url": "http://knutsynstad.com/fauxcode/"
+        "url": "http://knutsynstad.com/fauxcode/",
+        "keywords": []
       },
       {
         "Website": "Rive",
         "Description": "Real-time interactive design tool that allows you to design, animate, and immediately\\n integrate your assets into any platform.",
-        "url": "https://rive.app/"
+        "url": "https://rive.app/",
+        "keywords": []
       },
       {
         "Website": "Unscreen",
         "Description": "Remove Video Background 100% Automatically and Free",
-        "url": "https://www.unscreen.com/"
+        "url": "https://www.unscreen.com/",
+        "keywords": []
       },
       {
         "Website": "Kodeshot",
         "Description": "Convert your source code into nice pictures for your articles, tweets, messages, posts...",
-        "url": "https://www.kodeshot.net/"
+        "url": "https://www.kodeshot.net/",
+        "keywords": []
       },
       {
         "Website": "Wix",
         "Description": "Create a Website You’re Proud Of",
-        "url": "https://www.wix.com/"
+        "url": "https://www.wix.com/",
+        "keywords": []
       },
       {
         "Website": "GTmetrix",
         "Description": "Website Speed and Performance Optimization",
-        "url": "https://gtmetrix.com/"
+        "url": "https://gtmetrix.com/",
+        "keywords": []
       }
     ]
   },
@@ -1801,117 +2148,140 @@
     "list": [{
         "Website": "Behance",
         "Description": "Design projects featured by different creators",
-        "url": "https://www.behance.net/"
+        "url": "https://www.behance.net/",
+        "keywords": []
       },
       {
         "Website": "Dribbble",
         "Description": "Design projects featured by different creators",
-        "url": "https://dribbble.com/"
+        "url": "https://dribbble.com/",
+        "keywords": []
       },
       {
         "Website": "Httpster",
         "Description": "Showcases websites made by people from all over the world",
-        "url": "https://httpster.net/2020/apr/"
+        "url": "https://httpster.net/2020/apr/",
+        "keywords": []
       },
       {
         "Website": "Microcopy\\n Inspirations",
         "Description": "Curated collection of UX writing examples, microcopy examples and copywriting examples",
-        "url": "https://www.microcopyinspirations.com/"
+        "url": "https://www.microcopyinspirations.com/",
+        "keywords": []
       },
       {
         "Website": "Inspofinds",
         "Description": "Latest design work from designers and the design community",
-        "url": "https://inspofinds.com/"
+        "url": "https://inspofinds.com/",
+        "keywords": []
       },
       {
         "Website": "Design Notes",
         "Description": "Free online resource library for product designers",
-        "url": "https://www.designnotes.co/"
+        "url": "https://www.designnotes.co/",
+        "keywords": []
       },
       {
         "Website": "Land Book",
         "Description": "Displays a large collection of websites to help find inspiration",
-        "url": "https://land-book.com/"
+        "url": "https://land-book.com/",
+        "keywords": []
       },
       {
         "Website": "Frontend Mentor",
         "Description": "Real-world UI Challenges using HTML, CSS and Javascript",
-        "url": "https://www.frontendmentor.io/"
+        "url": "https://www.frontendmentor.io/",
+        "keywords": []
       },
       {
         "Website": "Awwwards",
         "Description": "A website that rate and collects the best websites in the world in UI",
-        "url": "https://www.awwwards.com/"
+        "url": "https://www.awwwards.com/",
+        "keywords": []
       },
       {
         "Website": "Codrops",
         "Description": "A website that collects the best UI ideas and patterns and make tutorials of it",
-        "url": "https://tympanus.net/codrops/"
+        "url": "https://tympanus.net/codrops/",
+        "keywords": []
       },
       {
         "Website": "SaaS Landing Page",
         "Description": "Discover the best landing page examples created by top-class SaaS companies",
-        "url": "https://saaslandingpage.com/"
+        "url": "https://saaslandingpage.com/",
+        "keywords": []
       },
       {
         "Website": "Pages.xyz",
         "Description": "Curate and discover the best designed web pages",
-        "url": "https://www.pages.xyz/"
+        "url": "https://www.pages.xyz/",
+        "keywords": []
       },
       {
         "Website": "UI Movement",
         "Description": "UI Movement is a community of design enthusiasts who share and discuss the most interesting\\n and unique UI designs",
-        "url": "https://uimovement.com/"
+        "url": "https://uimovement.com/",
+        "keywords": []
       },
       {
         "Website": "lapa ninja",
         "Description": "Best landing page inspiration",
-        "url": "https://www.lapa.ninja/"
+        "url": "https://www.lapa.ninja/",
+        "keywords": []
       },
       {
         "Website": "Freefrontend",
         "Description": "Free front end design from css html and javascript. latest work some design part",
-        "url": "https://freefrontend.com/"
+        "url": "https://freefrontend.com/",
+        "keywords": []
       },
       {
         "Website": "Webframe",
         "Description": "Discover and be inspired by beautiful webapp designs",
-        "url": "https://webframe.xyz"
+        "url": "https://webframe.xyz",
+        "keywords": []
       },
       {
         "Website": "Collect UI",
         "Description": "Daily inspiration collected from daily ui archive and beyond. Hand picked, and updating daily.",
-        "url": "http://collectui.com/"
+        "url": "http://collectui.com/",
+        "keywords": []
       },
       {
         "Website": "Graphic Burger",
         "Description": "A site offering a free and pain icons, mock-ups, Ui-Kits, text effect and backgrounds. This\\n site's resource are a mix of free and paid resources. Icons is on a mix of PNG, SVG, EPS and\\n Sketch Format. Some resources are confusing as there are sponsored content in the middle of the\\n free sets.",
-        "url": "https://graphicburger.com/"
+        "url": "https://graphicburger.com/",
+        "keywords": []
       },
       {
         "Website": "Really Good Emails",
         "Description": "A site offering users a ton of company e-mails from customer service to marketing.",
-        "url": "https://reallygoodemails.com/"
+        "url": "https://reallygoodemails.com/",
+        "keywords": []
       },
       {
         "Website": "Free Design\\n Resource",
         "Description": "A site offering fonts, mockups, templates graphics and ui kits.",
-        "url": "https://freedesignresources.net/"
+        "url": "https://freedesignresources.net/",
+        "keywords": []
       },
       {
         "Website": "Site Inspire",
         "Description": "siteInspire is a showcase of the finest web and interactive design.",
-        "url": "https://www.siteinspire.com/"
+        "url": "https://www.siteinspire.com/",
+        "keywords": []
       },
       {
         "Website": "Web Design\\n Inspiration",
         "Description": "A site for web design inspiration, updated daily.",
-        "url": "https://www.webdesign-inspiration.com/"
+        "url": "https://www.webdesign-inspiration.com/",
+        "keywords": []
       },
       {
         "Website": "NavNav",
         "Description": "Responsive navigation examples",
-        "url": "https://navnav.co/"
+        "url": "https://navnav.co/",
+        "keywords": []
       }
     ]
   },
@@ -1920,67 +2290,80 @@
     "list": [{
         "Website": "TinyPNG",
         "Description": "Smart PNG and JPEG compression",
-        "url": "https://tinypng.com/"
+        "url": "https://tinypng.com/",
+        "keywords": []
       },
       {
         "Website": "Optimizilla",
         "Description": "Online JPEG and PNG optimizer / compressor with settings and archive download",
-        "url": "https://imagecompressor.com/"
+        "url": "https://imagecompressor.com/",
+        "keywords": []
       },
       {
         "Website": "Compressor.io",
         "Description": "JPEG, PNG, GIF, SVG Compression",
-        "url": "https://compressor.io/"
+        "url": "https://compressor.io/",
+        "keywords": []
       },
       {
         "Website": "Squoosh.app",
         "Description": "Image compression from Google Chrome Labs",
-        "url": "https://squoosh.app/"
+        "url": "https://squoosh.app/",
+        "keywords": []
       },
       {
         "Website": "BulkResizePhotos",
         "Description": "Bulk image resizing, compression & converting that perform all the tasks within the\\n browser (It works offline)",
-        "url": "https://bulkresizephotos.com/"
+        "url": "https://bulkresizephotos.com/",
+        "keywords": []
       },
       {
         "Website": "iLoveIMG",
         "Description": "The fastest free web app for easy image modification",
-        "url": "https://www.iloveimg.com/"
+        "url": "https://www.iloveimg.com/",
+        "keywords": []
       },
       {
         "Website": "SvgOMG",
         "Description": "Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly\\n in it.",
-        "url": "https://jakearchibald.github.io/svgomg/"
+        "url": "https://jakearchibald.github.io/svgomg/",
+        "keywords": []
       },
       {
         "Website": "CompressJPEG",
         "Description": "Compress JPEG images with size even greater than 5MB",
-        "url": "https://compressjpeg.com/"
+        "url": "https://compressjpeg.com/",
+        "keywords": []
       },
       {
         "Website": "CompressNow",
         "Description": "JPEG, GIF, PNG Compression",
-        "url": "https://compressnow.com/"
+        "url": "https://compressnow.com/",
+        "keywords": []
       },
       {
         "Website": "Promo Image Resizer",
         "Description": "Free Image and Photo Resizer",
-        "url": "https://compressnow.com/"
+        "url": "https://compressnow.com/",
+        "keywords": []
       },
       {
         "Website": "Image Optimizer",
         "Description": "Image Optimizer Free With Quality Options",
-        "url": "http://www.imageoptimizer.net/"
+        "url": "http://www.imageoptimizer.net/",
+        "keywords": []
       },
       {
         "Website": "SVGminify",
         "Description": "This tool removes superfluous information, thereby reducing the size of your SVG files",
-        "url": "https://www.svgminify.com/"
+        "url": "https://www.svgminify.com/",
+        "keywords": []
       },
       {
         "Website": "JPEG Optimizer",
         "Description": "Free online tool for resizing and compressing digital photos and images for displaying on the\\n web",
-        "url": "http://jpeg-optimizer.com/"
+        "url": "http://jpeg-optimizer.com/",
+        "keywords": []
       }
     ]
   },
@@ -1989,97 +2372,116 @@
     "list": [{
         "Website": "everysize.kibalabs.com",
         "Description": "Check your awesome responsive webpage looks great in every size",
-        "url": "https://everysize.kibalabs.com/"
+        "url": "https://everysize.kibalabs.com/",
+        "keywords": []
       },
       {
         "Website": "Devhints.io",
         "Description": "This is a modest collection of cheatsheets on Internet",
-        "url": "https://devhints.io/"
+        "url": "https://devhints.io/",
+        "keywords": []
       },
       {
         "Website": "The Web Toolbox",
         "Description": "A collection of handy, free-to-use tools for web developers, programmers and designers.",
-        "url": "https://thewebtoolbox.cc/"
+        "url": "https://thewebtoolbox.cc/",
+        "keywords": []
       },
       {
         "Website": "WebDevTrick",
         "Description": "A famous blog for many amazing HTML, CSS, JQuery designs.",
-        "url": "https://webdevtrick.com/"
+        "url": "https://webdevtrick.com/",
+        "keywords": []
       },
       {
         "Website": "css-tricks",
         "Description": "Free CSS tricks and some unique ideas for beginners and advanced",
-        "url": "https://css-tricks.com/"
+        "url": "https://css-tricks.com/",
+        "keywords": []
       },
       {
         "Website": "Material\\n Design Resizer",
         "Description": "An interactive viewer that helps designers test material design breakpoints across desktop,\\n mobile, and tablet",
-        "url": "https://material.io/resources/resizer/"
+        "url": "https://material.io/resources/resizer/",
+        "keywords": []
       },
       {
         "Website": "Nodesign.dev",
         "Description": "A collection of tools for developers who have little to no artistic talent",
-        "url": "https://nodesign.dev"
+        "url": "https://nodesign.dev",
+        "keywords": []
       },
       {
         "Website": "A11ygator",
         "Description": "A web tool to scan websites against WCAG rules",
-        "url": "https://a11ygator.chialab.io/"
+        "url": "https://a11ygator.chialab.io/",
+        "keywords": []
       },
       {
         "Website": "Commitizen",
         "Description": "Command line tool to formatted commit messages according to the standards",
-        "url": "http://commitizen.github.io/cz-cli/"
+        "url": "http://commitizen.github.io/cz-cli/",
+        "keywords": []
       },
       {
         "Website": "CleanCss",
         "Description": "Tool For Code Foramtter, Minifier, File Converter",
-        "url": "https://www.cleancss.com/"
+        "url": "https://www.cleancss.com/",
+        "keywords": []
       },
       {
         "Website": "Tiny helpers",
         "Description": "A collection of free single-purpose online tools for web developers",
-        "url": "https://tiny-helpers.dev/"
+        "url": "https://tiny-helpers.dev/",
+        "keywords": []
       },
       {
         "Website": "CSS\\n Ribbon\\n Generator",
         "Description": "This generator will assist in creating a pure CSS corner ribbon.",
-        "url": "https://www.cssportal.com/css-ribbon-generator/"
+        "url": "https://www.cssportal.com/css-ribbon-generator/",
+        "keywords": []
       },
       {
         "Website": "Can I Use",
         "Description": "Check cross-browser compatibility of frontend technologies.",
-        "url": "https://caniuse.com/"
+        "url": "https://caniuse.com/",
+        "keywords": []
       },
       {
         "Website": "kangax-js-compat-table",
         "Description": "Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers,\\n servers/runtimes and platforms (Desktop and Mobile).",
-        "url": "https://kangax.github.io/compat-table/es6/"
+        "url": "https://kangax.github.io/compat-table/es6/",
+        "keywords": []
       },
       {
         "Website": "mydevice.io",
         "Description": "Most commonly used device resolutions including phones and tablets",
-        "url": "https://www.mydevice.io/"
+        "url": "https://www.mydevice.io/",
+        "keywords": []
       },
       {
         "Website": "Codepen",
         "Description": "Build, test and discover frontend code.",
-        "url": "https://codepen.io/"
+        "url": "https://codepen.io/",
+        "keywords": []
       },
       {
         "Website": "Responsively",
         "Description": "A tool for designers and frontend developers to design and debug their in all platforms with\\n ease",
-        "url": "https://manojvivek.github.io/responsively-app/"
+        "url": "https://manojvivek.github.io/responsively-app/",
+        "keywords": []
       },
       {
         "Website": "html2pdf.js",
         "Description": "Client-side HTML-to-PDF rendering using pure JS.",
-        "url": "https://ekoopmans.github.io/html2pdf.js/"
+        "url": "https://ekoopmans.github.io/html2pdf.js/",
+        "keywords": []
       },
       {
         "Website": "CSS Reference",
         "Description": "A collection of all css properties and definitions in detail",
-        "url": "https://cssreference.io/"
+        "url": "https://cssreference.io/",
+        "keywords": []
       }
     ]
   },
@@ -2087,525 +2489,642 @@
     "name": "All in One",
     "list": [{
         "Website": "allthefreestock",
-        "url": "https://allthefreestock.com/"
+        "url": "https://allthefreestock.com/",
+        "keywords": []
       },
       {
         "Website": "The stocks (Bulk)",
-        "url": "http://thestocks.im/"
+        "url": "http://thestocks.im/",
+        "keywords": []
       },
       {
         "Website": "tympanus (Bulk)",
-        "url": "https://tympanus.net/codrops/"
+        "url": "https://tympanus.net/codrops/",
+        "keywords": []
       },
       {
         "Website": "Best Jquery (Bulk)",
-        "url": "https://www.bestjquery.com/"
+        "url": "https://www.bestjquery.com/",
+        "keywords": []
       },
       {
         "Website": "codyhouse Bulk components",
-        "url": "https://codyhouse.co/ds/components"
+        "url": "https://codyhouse.co/ds/components",
+        "keywords": []
       },
       {
         "Website": "Free Frontend Bulk components",
-        "url": "https://freefrontend.com/"
+        "url": "https://freefrontend.com/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Image Tools",
     "list": [{
       "Website": "image Resize",
-      "url": "https://www.birme.net/"
+      "url": "https://www.birme.net/",
+      "keywords": []
     }]
   }, {
     "name": "Design Assets",
     "list": [{
         "Website": "UI Design Daily (bulk)",
-        "url": "https://uidesigndaily.com/"
+        "url": "https://uidesigndaily.com/",
+        "keywords": []
       },
       {
         "Website": "freebiesbug (bulk)",
-        "url": "https://freebiesbug.com/"
+        "url": "https://freebiesbug.com/",
+        "keywords": []
       },
       {
         "Website": "collectui Bulk UI components",
-        "url": "https://collectui.com/"
+        "url": "https://collectui.com/",
+        "keywords": []
       },
       {
         "Website": "sketchappsources",
-        "url": "https://www.sketchappsources.com/"
+        "url": "https://www.sketchappsources.com/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Icon Assets",
     "list": [{
         "Website": "CSS icons",
-        "url": "https://css.gg/"
+        "url": "https://css.gg/",
+        "keywords": []
       },
       {
         "Website": "Animated icons",
-        "url": "https://lordicon.com/"
+        "url": "https://lordicon.com/",
+        "keywords": []
       },
       {
         "Website": "Font faced icons",
-        "url": "http://fontello.com/"
+        "url": "http://fontello.com/",
+        "keywords": []
       },
       {
         "Website": "Flat Icons - Bulk",
-        "url": "https://www.flaticon.com/"
+        "url": "https://www.flaticon.com/",
+        "keywords": []
       },
       {
         "Website": "Ion icons - font faced",
-        "url": "https://ionicons.com/"
+        "url": "https://ionicons.com/",
+        "keywords": []
       },
       {
         "Website": "Material icons - SVG",
-        "url": "https://material.io/resources/icons/"
+        "url": "https://material.io/resources/icons/",
+        "keywords": []
       },
       {
         "Website": "Feather icons - SVG",
-        "url": "https://feathericons.com/"
+        "url": "https://feathericons.com/",
+        "keywords": []
       },
       {
         "Website": "Icons 8 - Bulk",
-        "url": "https://icons8.com/icons"
+        "url": "https://icons8.com/icons",
+        "keywords": []
       },
       {
         "Website": "fontastic - Vector Icons",
-        "url": "http://fontastic.me/"
+        "url": "http://fontastic.me/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Image Assets",
     "list": [{
         "Website": "Freepik - Bulk",
-        "url": "https://www.freepik.com/"
+        "url": "https://www.freepik.com/",
+        "keywords": []
       },
       {
         "Website": "Unsplash",
-        "url": "https://unsplash.com/"
+        "url": "https://unsplash.com/",
+        "keywords": []
       },
       {
         "Website": "Pexels - Images,Videos",
-        "url": "https://www.pexels.com/"
+        "url": "https://www.pexels.com/",
+        "keywords": []
       },
       {
         "Website": "Clean Png",
-        "url": "https://www.cleanpng.com/"
+        "url": "https://www.cleanpng.com/",
+        "keywords": []
       },
       {
         "Website": "Pixabay",
-        "url": "https://pixabay.com/"
+        "url": "https://pixabay.com/",
+        "keywords": []
       },
       {
         "Website": "The mockup - mockups",
-        "url": "https://themockup.club/"
+        "url": "https://themockup.club/",
+        "keywords": []
       },
       {
         "Website": "Threed - 3D Mockups",
-        "url": "https://threed.io/"
+        "url": "https://threed.io/",
+        "keywords": []
       },
       {
         "Website": "Canva",
-        "url": "https://www.canva.com/photos/free/"
+        "url": "https://www.canva.com/photos/free/",
+        "keywords": []
       },
       {
         "Website": "Stocksnap",
-        "url": "https://stocksnap.io/"
+        "url": "https://stocksnap.io/",
+        "keywords": []
       },
       {
         "Website": "Burst - high Resolution",
-        "url": "https://burst.shopify.com/"
+        "url": "https://burst.shopify.com/",
+        "keywords": []
       },
       {
         "Website": "Free Images - Bulk",
-        "url": "https://www.freeimages.com/"
+        "url": "https://www.freeimages.com/",
+        "keywords": []
       },
       {
         "Website": "Maxkit - videos free",
-        "url": "https://mixkit.co/"
+        "url": "https://mixkit.co/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Colors Assets",
     "list": [{
         "Website": "Coolors - color pallet",
-        "url": "https://coolors.co/"
+        "url": "https://coolors.co/",
+        "keywords": []
       },
       {
         "Website": "Flat UI colors - color pallet",
-        "url": "https://flatuicolors.com/"
+        "url": "https://flatuicolors.com/",
+        "keywords": []
       },
       {
         "Website": "color mind - color pallet",
-        "url": "http://colormind.io/"
+        "url": "http://colormind.io/",
+        "keywords": []
       },
       {
         "Website": "Gradient animator",
-        "url": "https://www.gradient-animator.com/"
+        "url": "https://www.gradient-animator.com/",
+        "keywords": []
       },
       {
         "Website": "Color Gradient Generator",
-        "url": "https://mycolor.space/gradient"
+        "url": "https://mycolor.space/gradient",
+        "keywords": []
       },
       {
         "Website": "Pink Colors",
-        "url": "https://picular.co/pink"
+        "url": "https://picular.co/pink",
+        "keywords": []
       },
       {
         "Website": "brandcolors",
-        "url": "http://brandcolors.net/"
+        "url": "http://brandcolors.net/",
+        "keywords": []
       },
       {
         "Website": "Website color finder",
-        "url": "http://stylifyme.com/"
+        "url": "http://stylifyme.com/",
+        "keywords": []
       },
       {
         "Website": "colinkeany color gradient",
-        "url": "http://colinkeany.com/blend/"
+        "url": "http://colinkeany.com/blend/",
+        "keywords": []
       },
       {
         "Website": "image color picker",
-        "url": "https://image-color.com/"
+        "url": "https://image-color.com/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Fonts Assets",
     "list": [{
       "Website": "font Fabric",
-      "url": "https://www.fontfabric.com/"
+      "url": "https://www.fontfabric.com/",
+      "keywords": []
     }]
   }, {
     "name": "Backgrounds Assets",
     "list": [{
         "Website": "Transparent Textures",
-        "url": "https://www.transparenttextures.com/"
+        "url": "https://www.transparenttextures.com/",
+        "keywords": []
       },
       {
         "Website": "williamngan 3D, Transparent",
-        "url": "http://williamngan.github.io/kubist/"
+        "url": "http://williamngan.github.io/kubist/",
+        "keywords": []
       },
       {
         "Website": "Cool Background",
-        "url": "https://coolbackgrounds.io/"
+        "url": "https://coolbackgrounds.io/",
+        "keywords": []
       },
       {
         "Website": "Web Gradients - Gradients",
-        "url": "https://webgradients.com/"
+        "url": "https://webgradients.com/",
+        "keywords": []
       },
       {
         "Website": "FANCY-BORDER-RADIUS",
-        "url": "https://9elements.github.io/fancy-border-radius/"
+        "url": "https://9elements.github.io/fancy-border-radius/",
+        "keywords": []
       },
       {
         "Website": "Web Background Animation Effects - Bulk",
-        "url": "https://bashooka.com/coding/web-background-animation-effects/"
+        "url": "https://bashooka.com/coding/web-background-animation-effects/",
+        "keywords": []
       },
       {
         "Website": "blobmaker - Bulk",
-        "url": "https://www.blobmaker.app/"
+        "url": "https://www.blobmaker.app/",
+        "keywords": []
       },
       {
         "Website": "svgbackgroundsfb",
-        "url": "https://www.svgbackgrounds.com/"
+        "url": "https://www.svgbackgrounds.com/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Plugins Assets",
     "list": [{
         "Website": "tympanus Sidebar animations, header scroll effects",
-        "url": "https://tympanus.net/Development/SidebarTransitions/"
+        "url": "https://tympanus.net/Development/SidebarTransitions/",
+        "keywords": []
       },
       {
         "Website": "countUp - Numbers Count up",
-        "url": "https://inorganik.github.io/countUp.js/"
+        "url": "https://inorganik.github.io/countUp.js/",
+        "keywords": []
       },
       {
         "Website": "Page Scroll Animation",
-        "url": "https://alvarotrigo.com/pagePiling/"
+        "url": "https://alvarotrigo.com/pagePiling/",
+        "keywords": []
       },
       {
         "Website": "Scroll Animation",
-        "url": "http://scrollme.nckprsn.com/"
+        "url": "http://scrollme.nckprsn.com/",
+        "keywords": []
       },
       {
         "Website": "Video background -Full video",
-        "url": "http://vodkabears.github.io/vide/"
+        "url": "http://vodkabears.github.io/vide/",
+        "keywords": []
       },
       {
         "Website": "Vfitvidsjs -video Player",
-        "url": "http://fitvidsjs.com/"
+        "url": "http://fitvidsjs.com/",
+        "keywords": []
       },
       {
         "Website": "Video Player",
-        "url": "https://redtettemer.github.io/rtop-video-player/"
+        "url": "https://redtettemer.github.io/rtop-video-player/",
+        "keywords": []
       },
       {
         "Website": "CSS Lint CSS Error finder",
-        "url": "http://csslint.net/"
+        "url": "http://csslint.net/",
+        "keywords": []
       },
       {
         "Website": "Isotope - Filter Animation",
-        "url": "https://isotope.metafizzy.co/"
+        "url": "https://isotope.metafizzy.co/",
+        "keywords": []
       },
       {
         "Website": "Fast Click - Click Event speed improve",
-        "url": "https://github.com/ftlabs/fastclick"
+        "url": "https://github.com/ftlabs/fastclick",
+        "keywords": []
       },
       {
         "Website": "typed - Text Typed Animation",
-        "url": "https://mattboldt.com/demos/typed-js/"
+        "url": "https://mattboldt.com/demos/typed-js/",
+        "keywords": []
       },
       {
         "Website": "parallax js",
-        "url": "http://pixelcog.github.io/parallax.js/"
+        "url": "http://pixelcog.github.io/parallax.js/",
+        "keywords": []
       },
       {
         "Website": "photoswipe - Photo viewing",
-        "url": "https://photoswipe.com/"
+        "url": "https://photoswipe.com/",
+        "keywords": []
       },
       {
         "Website": "Grid Filter - Sort,search",
-        "url": "https://muuri.dev/"
+        "url": "https://muuri.dev/",
+        "keywords": []
       },
       {
         "Website": "ANCHOR SCROLL",
-        "url": "http://www.virgiliudiaconu.com/work/anchor-scroll"
+        "url": "http://www.virgiliudiaconu.com/work/anchor-scroll",
+        "keywords": []
       },
       {
         "Website": "Image Focus Point",
-        "url": "http://jonom.github.io/jquery-focuspoint/demos/helper/index.html"
+        "url": "http://jonom.github.io/jquery-focuspoint/demos/helper/index.html",
+        "keywords": []
       },
       {
         "Website": "SVG Magic",
-        "url": "http://dirkgroenen.nl/SVGMagic/"
+        "url": "http://dirkgroenen.nl/SVGMagic/",
+        "keywords": []
       },
       {
         "Website": "Rounded Slider -  counter",
-        "url": "https://roundsliderui.com/demos.html"
+        "url": "https://roundsliderui.com/demos.html",
+        "keywords": []
       },
       {
         "Website": "Multi navigation menu",
-        "url": "https://slinky.js.org/"
+        "url": "https://slinky.js.org/",
+        "keywords": []
       },
       {
         "Website": "Fav icon Generator",
-        "url": "https://realfavicongenerator.net/"
+        "url": "https://realfavicongenerator.net/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Animation Plugins Assets",
     "list": [{
         "Website": "Anime js - Animation",
-        "url": "https://animejs.com/"
+        "url": "https://animejs.com/",
+        "keywords": []
       },
       {
         "Website": "SVG js - SVG Animation",
-        "url": "https://svgjs.com/docs/3.0/"
+        "url": "https://svgjs.com/docs/3.0/",
+        "keywords": []
       },
       {
         "Website": "AOS - Site scroll Animation",
-        "url": "https://michalsnik.github.io/aos/"
+        "url": "https://michalsnik.github.io/aos/",
+        "keywords": []
       },
       {
         "Website": "Minimamente - CSS animation",
-        "url": "https://www.minimamente.com/project/magic/"
+        "url": "https://www.minimamente.com/project/magic/",
+        "keywords": []
       },
       {
         "Website": "blivesta - Jquery animation",
-        "url": "http://git.blivesta.com/animsition/"
+        "url": "http://git.blivesta.com/animsition/",
+        "keywords": []
       },
       {
         "Website": "prinzhorn - scroll animation",
-        "url": "http://prinzhorn.github.io/skrollr/"
+        "url": "http://prinzhorn.github.io/skrollr/",
+        "keywords": []
       },
       {
         "Website": "Hover.CSS - Buttons animation",
-        "url": "http://ianlunn.github.io/Hover/"
+        "url": "http://ianlunn.github.io/Hover/",
+        "keywords": []
       },
       {
         "Website": "CSS Loaders - Loaders animation",
-        "url": "https://projects.lukehaas.me/css-loaders/"
+        "url": "https://projects.lukehaas.me/css-loaders/",
+        "keywords": []
       },
       {
         "Website": "Scrolling with CSS variables",
-        "url": "https://basicscroll.electerious.com/"
+        "url": "https://basicscroll.electerious.com/",
+        "keywords": []
       },
       {
         "Website": "CSS Animation",
-        "url": "http://cssanimation.io/"
+        "url": "http://cssanimation.io/",
+        "keywords": []
       },
       {
         "Website": "scrolly js",
-        "url": "http://scrollyjs.com/"
+        "url": "http://scrollyjs.com/",
+        "keywords": []
       },
       {
         "Website": "shapeshifter - SVG animation",
-        "url": "https://shapeshifter.design/"
+        "url": "https://shapeshifter.design/",
+        "keywords": []
       }
     ]
   }, {
     "name": "CSS Generator",
     "list": [{
         "Website": "CSS3 Generator - CSS3 Generator",
-        "url": "http://css3generator.com/"
+        "url": "http://css3generator.com/",
+        "keywords": []
       },
       {
         "Website": "CSS Arrows - CSS Arrows",
-        "url": "http://www.cssarrowplease.com/"
+        "url": "http://www.cssarrowplease.com/",
+        "keywords": []
       },
       {
         "Website": "CSS Triangle  - Triangles",
-        "url": "http://apps.eky.hk/css-triangle-generator/"
+        "url": "http://apps.eky.hk/css-triangle-generator/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Study Material",
     "list": [{
         "Website": "cssreference - CSS Study material",
-        "url": "https://cssreference.io/"
+        "url": "https://cssreference.io/",
+        "keywords": []
       },
       {
         "Website": "Web Code - Bulk",
-        "url": "https://webcode.tools/"
+        "url": "https://webcode.tools/",
+        "keywords": []
       },
       {
         "Website": "material - Bulk",
-        "url": "https://material.io/design"
+        "url": "https://material.io/design",
+        "keywords": []
       }
     ]
   }, {
     "name": "Code Formatters",
     "list": [{
         "Website": "codebeautify - Bulk",
-        "url": "https://codebeautify.org/"
+        "url": "https://codebeautify.org/",
+        "keywords": []
       },
       {
         "Website": "freeformatter - Bulk",
-        "url": "https://www.freeformatter.com/css-beautifier.html"
+        "url": "https://www.freeformatter.com/css-beautifier.html",
+        "keywords": []
       },
       {
         "Website": "cleancss",
-        "url": "https://www.cleancss.com/css-beautify/"
+        "url": "https://www.cleancss.com/css-beautify/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Image Hover Effects / Filter effects",
     "list": [{
         "Website": "Image Hover Effects - bootstrap",
-        "url": "https://miketricking.github.io/bootstrap-image-hover/"
+        "url": "https://miketricking.github.io/bootstrap-image-hover/",
+        "keywords": []
       },
       {
         "Website": "Image Filters - CSS image filter",
-        "url": "https://www.cssfilters.co/"
+        "url": "https://www.cssfilters.co/",
+        "keywords": []
       },
       {
         "Website": "Image Filters - Instagram CSS image filter",
-        "url": "https://una.im/CSSgram/"
+        "url": "https://una.im/CSSgram/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Image Editors",
     "list": [{
         "Website": "birme",
-        "url": "https://www.birme.net/"
+        "url": "https://www.birme.net/",
+        "keywords": []
       },
       {
         "Website": "photopea",
-        "url": "https://www.photopea.com/"
+        "url": "https://www.photopea.com/",
+        "keywords": []
       },
       {
         "Website": "Image Editors - Bulk",
-        "url": "https://www.iloveimg.com/"
+        "url": "https://www.iloveimg.com/",
+        "keywords": []
       },
       {
         "Website": "pixlr - Bulk",
-        "url": "https://pixlr.com/editor/"
+        "url": "https://pixlr.com/editor/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Spell checker",
     "list": [{
       "Website": "typosaur - Spell checking",
-      "url": "https://typosaur.us/"
+      "url": "https://typosaur.us/",
+      "keywords": []
     }]
   }, {
     "name": "Converters",
     "list": [{
         "Website": "convertio image converter",
-        "url": "https://convertio.co/"
+        "url": "https://convertio.co/",
+        "keywords": []
       },
       {
         "Website": "convertio Bulk",
-        "url": "https://www.jpeg.io/"
+        "url": "https://www.jpeg.io/",
+        "keywords": []
       },
       {
         "Website": "CSS to Sass Converter",
-        "url": "https://css2sass.herokuapp.com/"
+        "url": "https://css2sass.herokuapp.com/",
+        "keywords": []
       },
       {
         "Website": "Image converter - Bulk",
-        "url": "https://image.online-convert.com/convert-to-webp"
+        "url": "https://image.online-convert.com/convert-to-webp",
+        "keywords": []
       }
     ]
   }, {
     "name": "Responsive",
     "list": [{
         "Website": "yesviz",
-        "url": "https://yesviz.com/"
+        "url": "https://yesviz.com/",
+        "keywords": []
       },
       {
         "Website": "responsiv",
-        "url": "http://responsiv.eu/er.php"
+        "url": "http://responsiv.eu/er.php",
+        "keywords": []
       },
       {
         "Website": "All Devices Responsive",
-        "url": "http://www.infobyip.com/testwebsiteresolution.php"
+        "url": "http://www.infobyip.com/testwebsiteresolution.php",
+        "keywords": []
       },
       {
         "Website": "manojvivek",
-        "url": "https://manojvivek.github.io/responsively-app/"
+        "url": "https://manojvivek.github.io/responsively-app/",
+        "keywords": []
       },
       {
         "Website": "material",
-        "url": "https://material.io/resources/resizer/"
+        "url": "https://material.io/resources/resizer/",
+        "keywords": []
       },
       {
         "Website": "responsinator",
-        "url": "http://www.responsinator.com/"
+        "url": "http://www.responsinator.com/",
+        "keywords": []
       },
       {
         "Website": "Find Media Queries for any devices",
-        "url": "https://simplecss.eu/"
+        "url": "https://simplecss.eu/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Image Compressor",
     "list": [{
         "Website": "tinyjpg",
-        "url": "https://tinyjpg.com/"
+        "url": "https://tinyjpg.com/",
+        "keywords": []
       },
       {
         "Website": "compressjpeg",
-        "url": "https://compressjpeg.com/"
+        "url": "https://compressjpeg.com/",
+        "keywords": []
       },
       {
         "Website": "compressor",
-        "url": "https://compressor.io/"
+        "url": "https://compressor.io/",
+        "keywords": []
       }
     ]
   }, {
     "name": "Codepen",
     "list": [{
         "Website": "Menu Animated Dropdown With Pure Css",
-        "url": "https://codepen.io/bojankrsmanovic/pen/MyXRjQ"
+        "url": "https://codepen.io/bojankrsmanovic/pen/MyXRjQ",
+        "keywords": []
       },
       {
         "Website": "Hamburger",
-        "url": "https://codepen.io/ainalem/pen/PoYvggj"
+        "url": "https://codepen.io/ainalem/pen/PoYvggj",
+        "keywords": []
       },
       {
         "Website": "Hamburger",
-        "url": "https://codepen.io/ainalem/pen/GeMqdP"
+        "url": "https://codepen.io/ainalem/pen/GeMqdP",
+        "keywords": []
       }
     ]
   }
