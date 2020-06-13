@@ -460,7 +460,8 @@
 
 #web-tools-page .overall-block .left-block .side-menu {
   height: 100vh;
-  background: #2262c6;
+  background: -webkit-gradient(linear, left top, right top, from(#4C8DEB), color-stop(98.59%, #4C74EC));
+  background: linear-gradient(90deg, #4C8DEB 0%, #4C74EC 98.59%);
   overflow: hidden;
 }
 
@@ -596,6 +597,8 @@
   border-radius: 5px;
   color: #2262c6;
   margin-bottom: 25px !important;
+  -webkit-box-shadow: 0px 2px 6px rgba(76, 141, 235, 0.186481);
+          box-shadow: 0px 2px 6px rgba(76, 141, 235, 0.186481);
 }
 
 #web-tools-page .overall-block .right-block .main-block .each .block-name span {

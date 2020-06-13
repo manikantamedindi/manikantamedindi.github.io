@@ -9,7 +9,8 @@
     .left-block {
       .side-menu {
         height: 100vh;
-        background: #2262c6;
+        background: linear-gradient(90deg, #4C8DEB 0%, #4C74EC 98.59%);
+
         overflow: hidden;
 
         ul {
@@ -123,6 +124,7 @@
             border-radius: 5px;
             color: #2262c6;
             margin-bottom: 25px !important;
+            box-shadow: 0px 2px 6px rgba(76, 141, 235, 0.186481);
 
             span {
               padding-right: 3px;
