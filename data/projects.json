@@ -1,17 +1,43 @@
-[{
+[
+  {
+    "id": 1,
+    "title": "emporiom",
+    "url": "https://emporiom-wp.workr.in/",
+    "image": "emporiom.png",
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5", "vue"]
+  },
+  {
+    "id": 1,
+    "title": "mystonegarments",
+    "url": "https://mystonegarments.in/",
+    "image": "mystonegarments.png",
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5", "vue"]
+  },
+  {
+    "id": 1,
+    "title": "yodhinvestors",
+    "url": "https://yodhinvestors.workr.in/",
+    "image": "yodhinvestors.png",
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
+  },
+  {
+    "id": 1,
+    "title": "Anya",
+    "url": "https://anya.workr.in/",
+    "image": "Anya.png",
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
+  },
+  {
     "id": 1,
     "title": "Yscreens",
     "url": "https://yscreens.in/",
     "image": "yscreens.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
 
   {
@@ -19,511 +45,271 @@
     "title": "Povami Tech",
     "url": "https://povamitech.com/",
     "image": "project_1.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 2,
     "title": "CloudLogic",
     "url": "http://cloudlogic.systems/",
     "image": "project_2.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 3,
     "title": "Crowd Software",
     "url": "https://csoftllc.com/",
     "image": "project_3.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 4,
     "title": "Gummadi Education",
     "url": "https://gummadiedu.com/",
     "image": "project_4.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 5,
     "title": "Panhasinc",
     "url": "https://panhasinc.com/",
     "image": "project_5.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 6,
     "title": "peiskos",
     "url": "https://beta.peiskosclothing.com/",
     "image": "project_6.png",
-    "category": [
-      "all",
-      "",
-      "latest",
-      "vue"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest", "vue"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 7,
     "title": "Cafeoro",
     "url": "https://cafeoro.co.nz/",
     "image": "project_7.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 8,
     "title": "Gen Chem",
     "url": "https://genechem.workr.in/",
     "image": "project_8.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 9,
     "title": "Devlab werks",
     "url": "http://www.devlabwerks.com/",
     "image": "project_9.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 10,
     "title": "Quanbytech",
     "url": "https://beta.quanbytech.in/",
     "image": "project_10.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 11,
     "title": "Omnipolis",
     "url": "https://beta.omnipolis.co/",
     "image": "project_11.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 12,
     "title": "CBN Tech Force",
     "url": "https://www.cbntechforce.com/",
     "image": "project_12.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 13,
     "title": "Gen ITech",
     "url": "https://genitech.co.za/",
     "image": "project_13.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 14,
     "title": "Infosense",
     "url": "https://infosense.com.au/",
     "image": "project_14.png",
-    "category": [
-      "all",
-      "",
-      "latest",
-      "wordpress"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest", "wordpress"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 15,
     "title": "Rubato",
     "url": "https://rubato.workr.in/",
     "image": "project_15.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 16,
     "title": "Mayanksharmaphotography",
     "url": "https://mayanksharmaphotography.com/",
     "image": "project_16.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 17,
     "title": "Slicksoft",
     "url": "https://slicksoft.co/",
     "image": "project_17.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 18,
     "title": "Vaanar",
     "url": "https://vaanar.in/",
     "image": "project_18.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 19,
     "title": "SVR Neuro",
     "url": "https://svrneuroandtrauma.com/",
     "image": "project_19.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 20,
     "title": "Renesa",
     "url": "https://studiorenesa.com/",
     "image": "project_20.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 21,
     "title": "Mentors Academy",
     "url": "https://mentorsacademy.co/",
     "image": "project_21.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 22,
     "title": "Macha Tea",
     "url": "https://machatea.co/",
     "image": "project_22.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 23,
     "title": "Innovation Design",
     "url": "https://innovationsdesign.in/",
     "image": "project_23.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 24,
     "title": "Beyond Borders Programs",
     "url": "http://beyondbordersprograms.org/",
     "image": "project_24.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 25,
     "title": "VGR Diabetes",
     "url": "https://vgrdiabetes.in/",
     "image": "project_25.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 26,
     "title": "Caregiversaathi",
     "url": "https://caregiversaathi.co.in/",
     "image": "project_26.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 27,
     "title": "Fab In Shadez",
     "url": "https://fabinshadez.com/",
     "image": "project_27.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 28,
     "title": "Neptunemetals",
     "url": "https://neptunemetals.com/",
     "image": "project_28.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 29,
     "title": "Aravani Art Project",
     "url": "https://aravaniartproject.com/",
     "image": "project_29.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 30,
     "title": "Innovation design",
     "url": "https://innovationsdesign.in/",
     "image": "project_30.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 31,
     "title": "Vibhore Yadav",
     "url": "https://vibhoryadav.com/",
     "image": "project_31.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 32,
     "title": "Lakewood Family dental",
     "url": "https://lakewood-familydental.com/",
     "image": "project_32.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 33,
     "title": "Wise Wall Project",
     "url": "https://wisewallproject.com/",
     "image": "project_33.png",
-    "category": [
-      "all",
-      "",
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "", "latest"],
+    "tags": ["bootstrap", "html5"]
   },
   {
     "id": 1,
     "title": "Medichem Pharma",
     "url": "http://www.medichempharma.com/",
     "image": "medichem.png",
-    "category": [
-      "all",
-
-      "latest"
-    ],
-    "tags": [
-      "bootstrap",
-      "html5"
-    ]
+    "category": ["all", "latest"],
+    "tags": ["bootstrap", "html5"]
   }
 ]
