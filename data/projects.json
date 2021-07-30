@@ -3,33 +3,25 @@
     "id": 1,
     "title": "emporiom",
     "url": "https://emporiom-wp.workr.in/",
-    "image": "emporiom.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5", "vue"]
+    "image": "emporiom.png"
   },
   {
     "id": 1,
     "title": "mystonegarments",
     "url": "https://mystonegarments.in/",
-    "image": "mystonegarments.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5", "vue"]
+    "image": "mystonegarments.png"
   },
   {
     "id": 1,
     "title": "yodhinvestors",
     "url": "https://yodhinvestors.workr.in/",
-    "image": "yodhinvestors.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "yodhinvestors.png"
   },
   {
     "id": 1,
     "title": "Anya",
     "url": "https://anya.workr.in/",
-    "image": "Anya.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "Anya.png"
   },
   {
     "id": 1,
@@ -44,9 +36,7 @@
     "id": 1,
     "title": "Povami Tech",
     "url": "https://povamitech.com/",
-    "image": "project_1.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_1.png"
   },
   {
     "id": 2,
@@ -68,25 +58,19 @@
     "id": 4,
     "title": "Gummadi Education",
     "url": "https://gummadiedu.com/",
-    "image": "project_4.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_4.png"
   },
   {
     "id": 5,
     "title": "Panhasinc",
     "url": "https://panhasinc.com/",
-    "image": "project_5.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_5.png"
   },
   {
     "id": 6,
     "title": "peiskos",
     "url": "https://beta.peiskosclothing.com/",
-    "image": "project_6.png",
-    "category": ["all", "", "latest", "vue"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_6.png"
   },
   {
     "id": 7,
@@ -100,49 +84,37 @@
     "id": 8,
     "title": "Gen Chem",
     "url": "https://genechem.workr.in/",
-    "image": "project_8.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_8.png"
   },
   {
     "id": 9,
     "title": "Devlab werks",
     "url": "http://www.devlabwerks.com/",
-    "image": "project_9.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_9.png"
   },
   {
     "id": 10,
     "title": "Quanbytech",
     "url": "https://beta.quanbytech.in/",
-    "image": "project_10.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_10.png"
   },
   {
     "id": 11,
     "title": "Omnipolis",
     "url": "https://beta.omnipolis.co/",
-    "image": "project_11.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_11.png"
   },
   {
     "id": 12,
     "title": "CBN Tech Force",
     "url": "https://www.cbntechforce.com/",
-    "image": "project_12.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_12.png"
   },
   {
     "id": 13,
     "title": "Gen ITech",
     "url": "https://genitech.co.za/",
-    "image": "project_13.png",
-    "category": ["all", "latest"],
-    "tags": ["bootstrap", "html5"]
+    "image": "project_13.png"
   },
   {
     "id": 14,
