@@ -1,6 +1,18 @@
 [
   {
     "id": 1,
+    "title": "labsquire",
+    "url": "https://labsquire.com/",
+    "image": "labsquire.png"
+  },
+  {
+    "id": 1,
+    "title": "yodalifeline",
+    "url": "https://yodalifeline.in/",
+    "image": "yofhalifeline.png"
+  },
+  {
+    "id": 1,
     "title": "emporiom",
     "url": "https://emporiom-wp.workr.in/",
     "image": "emporiom.png"
@@ -69,7 +81,7 @@
   {
     "id": 6,
     "title": "peiskos",
-    "url": "https://beta.peiskosclothing.com/",
+    "url": "https://www.peiskosclothing.com/",
     "image": "project_6.png"
   },
   {
